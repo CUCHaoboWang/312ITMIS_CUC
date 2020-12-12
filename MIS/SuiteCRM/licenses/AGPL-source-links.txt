@@ -1,0 +1,3 @@
+========== SOURCE CODE LINKS FOR AGPL-LICENSED COMPONENTS ==========
+
+* suitecrm: https://github.com/salesagility/SuiteCRM

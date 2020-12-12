@@ -1,0 +1,346 @@
+============ CHANGELOG =============
+
+Version 4.1.1-5      2020-10-25
+* Updated Git to 2.29.0
+* Updated MySQL to 5.7.32
+* Updated OpenSSL to 1.1.1h
+* Updated PHP to 7.3.23
+* Updated phpMyAdmin to 5.0.4
+* Updated Redmine+Agile to 1.5.3
+* Updated Ruby to 2.5.8-2
+
+Version 4.1.1-4      2020-09-14
+* Maintenance release
+* Updated Apache to 2.4.46
+* Updated lego to 4.0.1
+* Updated PHP to 7.3.22
+* Updated SQLite to 3.33.0
+
+Version 4.1.1-3      2020-08-04
+* Maintenance release
+* Updated Git to 2.28.0
+* Updated lego to 3.8.0
+* Updated MySQL to 5.7.31
+* Updated Perl to 5.32.0
+* Updated PHP to 7.3.20
+* Updated SQLite to 3.32.3
+
+Version 4.1.1-2      2020-06-19
+* Maintenance release
+* Updated Git to 2.27.0
+* Updated lego to 3.7.0
+* Updated MySQL to 5.7.30
+* Updated Perl to 5.30.3
+* Updated PHP to 7.3.19
+* Updated Redmine+Agile to 1.5.3
+* Updated SQLite to 3.32.2
+* Updated Subversion to 1.14.0
+
+Version 4.1.1-0      2020-04-22
+* Updated Redmine+Agile to 1.5.3
+
+Version 4.1.1-1      2020-04-22
+* Fixed security vulnerability in OpenSSL CVE-2020-1967
+* Updated Git to 2.26.1
+* Updated OpenSSL to 1.1.1g
+
+Version 4.1.1-0      2020-04-08
+* Updated Apache to 2.4.43
+* Updated Git to 2.26.0
+* Updated lego to 3.5.0
+* Updated OpenSSL to 1.1.1f
+* Updated PHP to 7.3.16
+* Updated phpMyAdmin to 5.0.2
+* Updated Redmine+Agile to 1.4.12
+* Updated Ruby to 2.5.8
+* Updated SQLite to 3.31.1
+
+Version 4.1.0-8      2020-02-06
+* Maintenance release
+* Updated Git to 2.25.0
+* Updated lego to 3.3.0
+* Updated MySQL to 5.7.29
+* Updated PHP to 7.3.14
+* Updated phpMyAdmin to 5.0.1
+* Updated SQLite to 3.31.1.
+
+Version 4.1.0-7      2019-12-27
+* Updated PHP to 7.3.13
+* Updated Redmine+Agile to 1.4.12
+* Updated phpMyAdmin to 5.0.0
+
+Version 4.0.5-6      2019-12-02
+* Maintenance release
+* Updated lego to 3.2.0
+* Updated PHP to 7.3.12
+* Updated phpMyAdmin to 4.9.2
+* Updated Subversion to 1.13.0
+
+Version 4.0.5-5      2019-10-22
+* Maintenance release
+* Updated lego to 3.1.0
+* Updated MySQL to 5.7.28
+* Updated OpenSSL to 1.1.1d
+* Updated PHP to 7.3.10
+* Updated phpMyAdmin to 4.9.1
+* Updated Redmine+Agile to 1.4.12
+* Updated Ruby to 2.5.7
+* Updated SQLite to 3.30.1.
+
+Version 4.0.4-4      2019-08-28
+* Maintenance release
+* Updated Apache to 2.4.41
+* Updated Ghostscript to 9.05
+* Updated lego to 3.0.2
+* Updated MySQL to 5.7.27
+* Updated PHP to 7.3.8
+* Updated Subversion to 1.12.2
+
+Version 4.0.4-3      2019-07-18
+* Maintenance release
+* Updated PHP to 7.3.7
+* Updated SQLite to 3.29.0.
+
+Version 4.0.4-1      2019-06-20
+* Fixed issue on Windows 10 build 1903
+
+Version 4.0.4-0      2019-06-14
+* Updated PHP to 7.3.6
+* Updated phpMyAdmin to 4.9.0.1
+* Updated Redmine+Agile to 1.4.12
+
+Version 4.0.2-3      2019-06-04
+* Updated lego to 2.6.0
+* Updated OpenSSL to 1.0.2s
+* Updated PHP to 7.2.19
+* Updated Redmine+Agile to 1.4.11
+
+Version 4.0.2-2      2019-05-09
+* Updated lego to 2.5.0
+* Updated MySQL to 5.7.26
+* Updated PHP to 7.2.18
+* Updated Redmine+Agile to 1.4.10
+* Updated SQLite to 3.28.0
+* Updated Subversion to 1.12.0
+
+Version 4.0.2-1      2019-04-11
+* Fix Apache Carpe Diem vulnerability CVE-2019-0211
+* Updated Apache to 2.4.39
+* Updated lego to 2.4.0
+* Updated Ruby to 2.5.5
+
+Version 4.0.2-0      2019-03-26
+* Updated Apache to 2.4.38
+* Updated lego to 2.3.0
+* Updated MySQL to 5.7.25
+* Updated OpenSSL to 1.0.2r
+* Updated PHP to 7.2.16
+* Updated phpMyAdmin to 4.8.5
+* Updated Redmine+Agile to 1.4.6
+* Updated Ruby to 2.4.5
+* Updated SQLite to 3.27.2
+
+Version 4.0.1-0      2019-01-23
+* Updated lego to 2.0.1
+* Updated PHP to 7.1.26
+* Updated Redmine to 4.0.1
+* Updated Subversion to 1.11.1
+
+Version 4.0.0-0      2019-01-14
+* Updated phpMyAdmin to 4.8.4
+* Updated Redmine to 4.0.0
+* Updated SQLite to 3.26.0
+
+Version 3.4.6-7      2018-12-11
+* Updated OpenSSL to 1.0.2q
+* Updated PHP to 7.1.25
+* Updated Subversion to 1.11.0
+
+Version 3.4.6-6      2018-11-07
+* Fixed SpectreRSB Vulnerability (CVE-2018-15572)
+* Updated Apache to 2.4.37
+* Updated lego to 1.2.1
+* Updated MySQL to 5.6.42
+* Updated PHP to 7.1.23
+* Updated Redmine+Agile to 1.4.6
+* Updated Ruby to 2.3.8
+* Updated Subversion to 1.10.3
+
+Version 3.4.6-5      2018-10-09
+* Updated Apache to 2.4.35
+* Updated Git to 2.19.1
+
+Version 3.4.6-4      2018-09-27
+* Updated lego to 1.0.1
+* Updated OpenSSL to 1.0.2p
+* Updated PHP to 7.1.22
+* Updated phpMyAdmin to 4.8.3
+
+Version 3.4.6-3      2018-08-03
+* Updated Apache to 2.4.34
+* Updated MySQL to 5.6.41
+* Updated PHP to 7.1.20
+* Updated phpMyAdmin to 4.8.2
+* Updated Subversion to 1.10.2
+
+Version 3.4.5-2      2018-05-31
+* Updated Git to 2.17.1
+* Updated PHP to 7.1.18
+* Updated phpMyAdmin to 4.8.1
+* Updated SQLite to 3.18.0
+* Updated Subversion to 1.10.0
+
+Version 3.4.5-1      2018-05-02
+* Updated Apache to 2.4.33
+* Updated MySQL to 5.6.40
+* Updated OpenSSL to 1.0.2o
+* Updated PHP to 7.1.17
+* Updated phpMyAdmin to 4.8.0.1
+* Updated Ruby to 2.3.7
+
+Version 3.4.4-0      2018-04-02
+* Updated Agile Plugin to 1.4.6
+
+Version 3.4.4-7      2018-03-14
+* Generate the SSL certificates at installation time
+(boot time in the cloud images and virtual machines)
+* Updated MySQL to 5.6.39
+* Updated PHP to 7.1.15
+* Updated phpMyAdmin to 4.7.9
+
+Version 3.4.4-6      2018-01-16
+* Updated OpenSSL to 1.0.2n
+* Updated PHP to 7.1.13
+* Updated phpMyAdmin to 4.7.7
+* Updated Ruby to 2.3.6
+
+Version 3.4.3-5      2017-11-17
+* Add bnsupport tool
+* Fixed several security vulnerabilities in Ruby (CVE-2017-14033, CVE-2017-0898, CVE-2017-10784, CVE-2017-14064)
+* Updated Apache to 2.4.29
+* Updated MySQL to 5.6.38
+* Updated OpenSSL to 1.0.2m
+* Updated PHP to 7.1.11
+* Updated Ruby to 2.3.5
+
+Version 3.4.2-3      2017-09-06
+* Update Rubygems to version 2.6.13 (several security fixes)
+* Updated phpMyAdmin to 4.7.4
+
+Version 3.4.2-2      2017-08-15
+* Updated Git to 2.14 in OS-X (Fix CVE-2017-1000117)
+
+Version 3.4.2-1      2017-08-11
+* Updated Git to 2.14 in Windows and Linux (Fix CVE-2017-1000117)
+* Updated MySQL to 5.6.37
+* Updated Subversion to 1.9.7
+
+Version 3.4.2-0      2017-07-27
+* Updated Agile Plugin to 1.4.4
+* Updated Apache to 2.4.27
+* Updated phpMyAdmin to 4.7.2
+* Updated ImageMagick to 6.9.8
+* Updated MySQL to 5.6.36
+* Updated OpenSSL to 1.0.2l
+* Updated PHP to 5.6.31
+* Updated Ruby to 2.3.4
+
+Version 3.4.1-0      2017-07-10
+* Updated Redmine to 3.4.1
+* Updated ImageMagick to 6.9.8
+* Updated MySQL to 5.6.36
+* Updated OpenSSL to 1.0.2l
+* Updated PHP to 5.6.31
+* Updated phpMyAdmin to 4.7.1
+* Updated Ruby to 2.3.4
+
+Version 3.3.3-0      2017-04-10
+* Updated Redmine to 3.3.3
+* Updated Agile Plugin to 1.4.3
+
+Version 3.3.2-2      2017-02-23
+* Fixed an issue with the Bitnami Installer license
+
+Version 3.3.2-1      2017-02-22
+* Fixed log issue
+
+Version 3.3.2-0      2017-02-09
+* Updated Redmine to 3.3.2
+
+Version 3.3.1-1      2016-11-24
+* Updated Agile Plugin to 1.4.2
+* Updated PHP to 5.6.28
+* Updated MySQL to 5.6.34
+
+Version 3.3.1-0      2016-10-12
+* Updated Redmine to 3.3.1
+* Downgraded Agile plugin to 1.3.12
+
+Version 3.3.0-3      2016-09-29
+* Updated OpenSSL to 1.0.2j (Security fix CVE-2016-6304)
+* Patched Off-Path TCP Linux Kernel Vulnerability in Cloud Images and Virtual Machines (Security release CVE-2016-5696)
+
+Version 3.3.0-2      2016-07-08
+* Updated Circle theme to 2.1.0
+
+Version 3.3.0-1      2016-07-01
+* Updated Agile Plugin to 1.4.1
+* Fixed a bug in Windows related to crashing with PATH longer than 256 characters
+
+Version 3.3.0-0      2016-06-21
+* Updated Redmine to 3.3.0
+
+Version 3.2.3-0      2016-06-06
+* Updated Redmine to 3.2.3
+
+Version 3.2.2-0      2016-05-09
+* Updated Redmine to 3.2.2
+
+Version 3.2.1-2      2016-05-06
+* Updated policy of ImageMagick (disabled TEXT, SHOW, WIN, PLT) (Security CVE-2016-3714)
+* Updated OpenSSL to 1.0.2h (Security release CVE-2016-2108 CVE-2016-2107)
+
+Version 3.2.1-1      2016-05-04
+* Modified policy of ImageMagick (Security CVE-2016-3714)
+
+Version 3.2.1-0      2016-03-14
+* Updated Redmine to 3.2.1
+
+Version 3.2.0-3      2016-01-15
+* Fixed OpenSSH vulnerability (CVE-2016-0777 and CVE-2016-0778)
+
+Version 3.2.0-2      2016-01-12
+* Updated libpng to 1.5.26 (Security release CVE-2015-8540)
+* Updated Ruby to 2.1.8
+
+Version 3.2.0-1      2015-12-08
+* Updated Redmine to 3.2.0
+
+Version 3.1.2-0      2015-11-17
+* Updated Redmine to 3.1.2
+* Updated libpng to 1.5.24 (security issue)
+
+Version 3.1.1-2      2015-10-08
+* Updated Agile plugin to 1.3.12
+* Updated Circle theme to 2.0.1
+
+Version 3.1.1-1      2015-10-06
+* Fixed installation on OSX El Capitan
+
+Version 3.1.1-0      2015-09-23
+* Updated Redmine to 3.1.1
+
+Version 3.1.0-1      2015-08-25
+* Updated Agile plugin to 1.3.11
+
+Version 3.1.0-0      2015-08-13
+* Updated Redmine to 3.1.0
+
+Version 3.0.3-1      2015-07-10
+* Updated OpenSSL to 1.0.1p
+* Update RedmineCRM logo
+
+Version 3.0.3-0      2015-06-26
+* Initial release, bundles Apache 2.4.12, Ruby 2.0.0-p645,
+rails 3.2.19, rubygems 1.8.12, Subversion 1.8.13, MySQL
+5.5.42, Redmine 3.0.3, Agile plugin 1.3.10, Circle theme 1.0.2.

@@ -1,0 +1,15 @@
+all:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=127.0.0.1;port=3310;dbname=bitnami_orangehrm;charset=utf8mb4'
+      username: bn_orangehrm
+      password: 0f74d80972
+      attributes: { export: tables }
+test:
+  doctrine:
+    class: sfDoctrineDatabase
+    param:
+      dsn: 'mysql:host=127.0.0.1;port=3310;dbname=test_bitnami_orangehrm;charset=utf8mb4'
+      username: bn_orangehrm
+      password: 0f74d80972

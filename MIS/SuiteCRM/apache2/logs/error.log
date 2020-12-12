@@ -1,0 +1,91 @@
+[Mon Nov 23 20:22:53.257179 2020] [ssl:warn] [pid 6244:tid 592] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:22:53.304053 2020] [ssl:warn] [pid 6244:tid 592] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:22:53.522772 2020] [mpm_winnt:notice] [pid 6244:tid 592] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Mon Nov 23 20:22:53.522772 2020] [mpm_winnt:notice] [pid 6244:tid 592] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Mon Nov 23 20:22:53.522772 2020] [core:notice] [pid 6244:tid 592] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/SuiteCRM/apache2 -f C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 20:22:53.522772 2020] [mpm_winnt:notice] [pid 6244:tid 592] AH00418: Parent: Created child process 3808
+[Mon Nov 23 20:22:53.804044 2020] [ssl:warn] [pid 3808:tid 480] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:22:53.835271 2020] [ssl:warn] [pid 3808:tid 480] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:22:53.850896 2020] [mpm_winnt:notice] [pid 3808:tid 480] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 20:22:59.835107 2020] [mpm_winnt:notice] [pid 6244:tid 592] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 20:23:01.866275 2020] [mpm_winnt:notice] [pid 3808:tid 480] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 20:23:01.881910 2020] [mpm_winnt:notice] [pid 6244:tid 592] AH00430: Parent: Child process 3808 exited successfully.
+[Mon Nov 23 20:23:03.663078 2020] [ssl:warn] [pid 2060:tid 504] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:23:03.694330 2020] [ssl:warn] [pid 2060:tid 504] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:23:03.709953 2020] [mpm_winnt:notice] [pid 2060:tid 504] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Mon Nov 23 20:23:03.709953 2020] [mpm_winnt:notice] [pid 2060:tid 504] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Mon Nov 23 20:23:03.709953 2020] [core:notice] [pid 2060:tid 504] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/SuiteCRM/apache2 -f C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 20:23:03.725579 2020] [mpm_winnt:notice] [pid 2060:tid 504] AH00418: Parent: Created child process 3736
+[Mon Nov 23 20:23:04.006857 2020] [ssl:warn] [pid 3736:tid 424] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:23:04.038078 2020] [ssl:warn] [pid 3736:tid 424] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:23:04.053703 2020] [mpm_winnt:notice] [pid 3736:tid 424] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 20:23:08.037985 2020] [php7:warn] [pid 3736:tid 1152] [client 127.0.0.1:51798] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\jssource\\Minifier.php on line 240
+[Mon Nov 23 20:23:16.568892 2020] [php7:notice] [pid 3736:tid 1152] [client 127.0.0.1:51798] PHP Notice:  Undefined index: setup_db_collation in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\install\\install_utils.php on line 794
+[Mon Nov 23 20:23:16.568892 2020] [php7:notice] [pid 3736:tid 1152] [client 127.0.0.1:51798] PHP Notice:  Undefined index: setup_db_charset in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\install\\install_utils.php on line 795
+[Mon Nov 23 20:23:36.849534 2020] [php7:notice] [pid 3736:tid 1152] [client 127.0.0.1:51798] PHP Notice:  Undefined index: scenarios in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\install\\performSetup.php on line 532
+[Mon Nov 23 20:23:49.192873 2020] [php7:warn] [pid 3736:tid 1152] [client 127.0.0.1:51805] PHP Warning:  "continue" targeting switch is equivalent to "break". Did you mean to use "continue 2"? in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\jssource\\Minifier.php on line 240
+[Mon Nov 23 20:24:13.488964 2020] [php7:notice] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Notice:  Undefined index: scenarios in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:warn] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:notice] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Notice:  Undefined index: scenarios in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:warn] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:notice] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Notice:  Undefined index: scenarios in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:warn] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:notice] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Notice:  Undefined index: scenarios in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:warn] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:notice] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Notice:  Undefined index: scenarios in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:warn] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Warning:  in_array() expects parameter 2 to be array, null given in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 201
+[Mon Nov 23 20:24:13.488964 2020] [php7:notice] [pid 3736:tid 1152] [client 127.0.0.1:51816] PHP Notice:  Undefined index: scenarios in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\modules\\Configurator\\controller.php on line 223
+[Mon Nov 23 20:24:23.738608 2020] [mpm_winnt:notice] [pid 2060:tid 504] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 20:24:25.769802 2020] [mpm_winnt:notice] [pid 3736:tid 424] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 20:24:25.801047 2020] [mpm_winnt:notice] [pid 2060:tid 504] AH00430: Parent: Child process 3736 exited successfully.
+[Mon Nov 23 20:24:27.722857 2020] [ssl:warn] [pid 4648:tid 568] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:24:27.769732 2020] [ssl:warn] [pid 4648:tid 568] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:24:27.785357 2020] [mpm_winnt:notice] [pid 4648:tid 568] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Mon Nov 23 20:24:27.785357 2020] [mpm_winnt:notice] [pid 4648:tid 568] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Mon Nov 23 20:24:27.785357 2020] [core:notice] [pid 4648:tid 568] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/SuiteCRM/apache2 -f C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 20:24:27.785357 2020] [mpm_winnt:notice] [pid 4648:tid 568] AH00418: Parent: Created child process 3896
+[Mon Nov 23 20:24:28.082232 2020] [ssl:warn] [pid 3896:tid 504] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:24:28.113482 2020] [ssl:warn] [pid 3896:tid 504] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 20:24:28.129106 2020] [mpm_winnt:notice] [pid 3896:tid 504] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 26 11:38:29.743979 2020] [ssl:warn] [pid 3936:tid 592] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:38:29.790980 2020] [core:warn] [pid 3936:tid 592] AH00098: pid file C:/xampp/htdocs/MIS/SuiteCRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 26 11:38:29.801978 2020] [ssl:warn] [pid 3936:tid 592] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:38:30.249945 2020] [mpm_winnt:notice] [pid 3936:tid 592] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Thu Nov 26 11:38:30.249945 2020] [mpm_winnt:notice] [pid 3936:tid 592] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Nov 26 11:38:30.249945 2020] [core:notice] [pid 3936:tid 592] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/SuiteCRM/apache2 -f C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\conf\\httpd.conf'
+[Thu Nov 26 11:38:30.252947 2020] [mpm_winnt:notice] [pid 3936:tid 592] AH00418: Parent: Created child process 3036
+[Thu Nov 26 11:38:30.634915 2020] [ssl:warn] [pid 3036:tid 496] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:38:30.681770 2020] [ssl:warn] [pid 3036:tid 496] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:38:30.697416 2020] [mpm_winnt:notice] [pid 3036:tid 496] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 26 19:11:01.764988 2020] [ssl:warn] [pid 2112:tid 556] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:01.940989 2020] [core:warn] [pid 2112:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/SuiteCRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 26 19:11:01.946988 2020] [ssl:warn] [pid 2112:tid 556] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:02.560090 2020] [mpm_winnt:notice] [pid 2112:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Thu Nov 26 19:11:02.560090 2020] [mpm_winnt:notice] [pid 2112:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Nov 26 19:11:02.560090 2020] [core:notice] [pid 2112:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/SuiteCRM/apache2 -f C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\conf\\httpd.conf'
+[Thu Nov 26 19:11:02.560090 2020] [mpm_winnt:notice] [pid 2112:tid 556] AH00418: Parent: Created child process 3004
+[Thu Nov 26 19:11:03.294452 2020] [ssl:warn] [pid 3004:tid 484] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:03.356949 2020] [ssl:warn] [pid 3004:tid 484] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:03.372575 2020] [mpm_winnt:notice] [pid 3004:tid 484] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 05 14:29:48.344156 2020] [mpm_winnt:notice] [pid 2112:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 05 14:29:50.347172 2020] [mpm_winnt:notice] [pid 3004:tid 484] AH00364: Child: All worker threads have exited.
+[Sat Dec 05 14:29:50.391127 2020] [mpm_winnt:notice] [pid 2112:tid 556] AH00430: Parent: Child process 3004 exited successfully.
+[Sat Dec 05 14:54:04.503287 2020] [ssl:warn] [pid 7404:tid 568] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:04.550166 2020] [ssl:warn] [pid 7404:tid 568] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:04.888653 2020] [mpm_winnt:notice] [pid 7404:tid 568] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Sat Dec 05 14:54:04.888653 2020] [mpm_winnt:notice] [pid 7404:tid 568] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Sat Dec 05 14:54:04.888653 2020] [core:notice] [pid 7404:tid 568] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/SuiteCRM/apache2 -f C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\conf\\httpd.conf'
+[Sat Dec 05 14:54:04.891657 2020] [mpm_winnt:notice] [pid 7404:tid 568] AH00418: Parent: Created child process 7300
+[Sat Dec 05 14:54:05.300169 2020] [ssl:warn] [pid 7300:tid 484] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:05.347053 2020] [ssl:warn] [pid 7300:tid 484] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:05.378280 2020] [mpm_winnt:notice] [pid 7300:tid 484] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 10 12:33:02.745631 2020] [mpm_winnt:notice] [pid 7404:tid 568] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 10 12:33:04.783224 2020] [mpm_winnt:notice] [pid 7300:tid 484] AH00364: Child: All worker threads have exited.
+[Thu Dec 10 12:33:04.955106 2020] [mpm_winnt:notice] [pid 7404:tid 568] AH00430: Parent: Child process 7300 exited successfully.
+[Thu Dec 10 12:36:24.883714 2020] [ssl:warn] [pid 2228:tid 556] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:25.026713 2020] [ssl:warn] [pid 2228:tid 556] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:25.432714 2020] [mpm_winnt:notice] [pid 2228:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Thu Dec 10 12:36:25.432714 2020] [mpm_winnt:notice] [pid 2228:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Dec 10 12:36:25.432714 2020] [core:notice] [pid 2228:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/SuiteCRM/apache2 -f C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\conf\\httpd.conf'
+[Thu Dec 10 12:36:25.436715 2020] [mpm_winnt:notice] [pid 2228:tid 556] AH00418: Parent: Created child process 3336
+[Thu Dec 10 12:36:27.577656 2020] [ssl:warn] [pid 3336:tid 496] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name

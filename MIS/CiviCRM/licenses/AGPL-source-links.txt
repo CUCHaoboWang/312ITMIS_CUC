@@ -1,0 +1,3 @@
+========== SOURCE CODE LINKS FOR AGPL-LICENSED COMPONENTS ==========
+
+* civicrm: http://downloads.sourceforge.net/project/civicrm/civicrm-stable/5.31.0/civicrm-5.31.0-drupal.tar.gz

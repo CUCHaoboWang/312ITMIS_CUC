@@ -1,0 +1,41 @@
+2020-12-05T21:06:51.681995Z 0 [System] [MY-013169] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe (mysqld 8.0.22) initializing of server in progress as process 4560
+2020-12-05T21:06:51.871485Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-12-05T21:06:56.795243Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-12-05T21:06:59.521060Z 0 [Warning] [MY-010161] [Server] You need to use --log-bin to make --binlog-expire-logs-seconds work.
+2020-12-05T21:06:59.853997Z 6 [Warning] [MY-010453] [Server] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2020-12-05T21:07:04.012123Z 0 [System] [MY-010116] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 6556
+2020-12-05T21:07:04.041101Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-12-05T21:07:05.644266Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-12-05T21:07:05.902574Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-05T21:07:07.145619Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-05T21:07:07.146774Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-12-05T21:07:07.218521Z 0 [System] [MY-010931] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3311  MySQL Community Server - GPL.
+2020-12-05T21:07:43.180065Z 12 [System] [MY-013172] [Server] Received SHUTDOWN from user root. Shutting down mysqld (Version: 8.0.22).
+2020-12-05T21:07:43.180645Z 0 [System] [MY-013105] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe: Normal shutdown.
+2020-12-05T21:07:44.124891Z 0 [System] [MY-010910] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2020-12-05T21:08:25.806026Z 0 [System] [MY-010116] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 9148
+2020-12-05T21:08:25.858738Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-12-05T21:08:34.560102Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-12-05T21:08:34.930321Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-05T21:08:35.442913Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-05T21:08:35.443585Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-12-05T21:08:35.499455Z 0 [System] [MY-010931] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3311  MySQL Community Server - GPL.
+2020-12-05T21:09:12.726739Z 0 [System] [MY-013105] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe: Normal shutdown.
+2020-12-05T21:09:13.151710Z 0 [System] [MY-010910] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2020-12-05T21:09:27.372142Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-05T21:09:27.372260Z 0 [System] [MY-010116] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 8212
+2020-12-05T21:09:27.392488Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-12-05T21:09:35.161617Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-12-05T21:09:35.446207Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-05T21:09:35.718574Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-05T21:09:35.719226Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.
+2020-12-05T21:09:35.789404Z 0 [System] [MY-010931] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe: ready for connections. Version: '8.0.22'  socket: ''  port: 3311  MySQL Community Server - GPL.
+2020-12-10T12:33:02.713436Z 0 [System] [MY-013105] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe: Normal shutdown.
+2020-12-10T12:33:03.245402Z 0 [System] [MY-010910] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe: Shutdown complete (mysqld 8.0.22)  MySQL Community Server - GPL.
+2020-12-10T12:36:24.509045Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2020-12-10T12:36:24.510915Z 0 [System] [MY-010116] [Server] C:\xampp\htdocs\MIS\Mahara\mysql\bin\mysqld.exe (mysqld 8.0.22) starting as process 2900
+2020-12-10T12:36:24.886452Z 1 [System] [MY-013576] [InnoDB] InnoDB initialization has started.
+2020-12-10T12:36:28.508523Z 1 [System] [MY-013577] [InnoDB] InnoDB initialization has ended.
+2020-12-10T12:36:29.287213Z 0 [System] [MY-011323] [Server] X Plugin ready for connections. Bind-address: '::' port: 33060
+2020-12-10T12:36:30.506277Z 0 [Warning] [MY-010068] [Server] CA certificate ca.pem is self signed.
+2020-12-10T12:36:30.506998Z 0 [System] [MY-013602] [Server] Channel mysql_main configured to support TLS. Encrypted connections are now supported for this channel.

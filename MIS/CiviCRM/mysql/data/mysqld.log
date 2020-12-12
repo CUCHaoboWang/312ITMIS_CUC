@@ -1,0 +1,407 @@
+2020-11-23T22:10:45.074658Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-11-23T22:10:47.546234Z 0 [Warning] InnoDB: New log files created, LSN=45790
+2020-11-23T22:10:47.890246Z 0 [Warning] InnoDB: Creating foreign key constraint system tables.
+2020-11-23T22:10:47.976314Z 0 [Warning] No existing UUID has been found, so we assume that this is the first time that this server has been started. Generating a new UUID: bd75730d-2dd8-11eb-b98d-16ea6afc36b7.
+2020-11-23T22:10:47.990118Z 0 [Warning] Gtid table is not ready to be used. Table 'mysql.gtid_executed' cannot be opened.
+2020-11-23T22:10:50.181878Z 0 [Warning] CA certificate ca.pem is self signed.
+2020-11-23T22:10:51.106360Z 1 [Warning] root@localhost is created with an empty password ! Please consider switching off the --initialize-insecure option.
+2020-11-23T22:10:56.131844Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-11-23T22:10:56.131939Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-11-23T22:10:56.132319Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe (mysqld 5.7.32) starting as process 4388 ...
+2020-11-23T22:10:56.144220Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-23T22:10:56.144751Z 0 [Note] InnoDB: Uses event mutexes
+2020-11-23T22:10:56.145068Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2020-11-23T22:10:56.145497Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-23T22:10:56.146276Z 0 [Note] InnoDB: Number of pools: 1
+2020-11-23T22:10:56.146775Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2020-11-23T22:10:56.149964Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-23T22:10:56.172185Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-23T22:10:56.216741Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-11-23T22:10:56.310108Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-23T22:10:56.311382Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-23T22:10:56.377594Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-23T22:10:56.592465Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2020-11-23T22:10:56.593061Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2020-11-23T22:10:56.593796Z 0 [Note] InnoDB: Waiting for purge to start
+2020-11-23T22:10:56.655354Z 0 [Note] InnoDB: 5.7.32 started; log sequence number 2746711
+2020-11-23T22:10:56.656187Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\htdocs\MIS\CiviCRM\mysql\data\ib_buffer_pool
+2020-11-23T22:10:56.657037Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2020-11-23T22:10:56.686653Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2020-11-23T22:10:56.687333Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2020-11-23T22:10:56.689044Z 0 [Warning] CA certificate ca.pem is self signed.
+2020-11-23T22:10:56.689563Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2020-11-23T22:10:56.691051Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3309
+2020-11-23T22:10:56.693239Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2020-11-23T22:10:56.693726Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2020-11-23T22:10:56.779482Z 0 [Note] InnoDB: Buffer pool(s) load completed at 201123 22:10:56
+2020-11-23T22:10:56.780518Z 0 [Note] Event Scheduler: Loaded 0 events
+2020-11-23T22:10:56.781021Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.32'  socket: ''  port: 3309  MySQL Community Server (GPL)
+2020-11-23T22:11:34.716216Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: Normal shutdown
+
+2020-11-23T22:11:34.717206Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2020-11-23T22:11:34.717509Z 0 [Note] Shutting down slave threads
+2020-11-23T22:11:34.718534Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2020-11-23T22:11:34.718827Z 0 [Note] Event Scheduler: Purging the queue. 0 events
+2020-11-23T22:11:34.719250Z 0 [Note] Binlog end
+2020-11-23T22:11:34.731130Z 0 [Note] Shutting down plugin 'ngram'
+2020-11-23T22:11:34.731378Z 0 [Note] Shutting down plugin 'partition'
+2020-11-23T22:11:34.731609Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2020-11-23T22:11:34.731840Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2020-11-23T22:11:34.732063Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-11-23T22:11:34.732354Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-11-23T22:11:34.732593Z 0 [Note] Shutting down plugin 'MyISAM'
+2020-11-23T22:11:34.732829Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2020-11-23T22:11:34.733090Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-11-23T22:11:34.733355Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-11-23T22:11:34.733628Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-11-23T22:11:34.733902Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-11-23T22:11:34.734159Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-11-23T22:11:34.734414Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-11-23T22:11:34.734671Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-11-23T22:11:34.734928Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-11-23T22:11:34.735205Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-11-23T22:11:34.735459Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-11-23T22:11:34.735727Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-11-23T22:11:34.735993Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-11-23T22:11:34.736244Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-11-23T22:11:34.736521Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-11-23T22:11:34.736776Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-11-23T22:11:34.737060Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-11-23T22:11:34.737304Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2020-11-23T22:11:34.737575Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-11-23T22:11:34.737855Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-11-23T22:11:34.738126Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-11-23T22:11:34.738383Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-11-23T22:11:34.738666Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-11-23T22:11:34.738930Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-11-23T22:11:34.739196Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-11-23T22:11:34.739438Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-11-23T22:11:34.739690Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2020-11-23T22:11:34.739922Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-11-23T22:11:34.740177Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-11-23T22:11:34.740416Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2020-11-23T22:11:34.740651Z 0 [Note] Shutting down plugin 'InnoDB'
+2020-11-23T22:11:34.740964Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-11-23T22:11:34.741348Z 0 [Note] InnoDB: Starting shutdown...
+2020-11-23T22:11:34.856431Z 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\htdocs\MIS\CiviCRM\mysql\data\ib_buffer_pool
+2020-11-23T22:11:34.863732Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 201123 22:11:34
+2020-11-23T22:11:36.098113Z 0 [Note] InnoDB: Shutdown completed; log sequence number 2746739
+2020-11-23T22:11:36.098806Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-23T22:11:36.099139Z 0 [Note] Shutting down plugin 'MEMORY'
+2020-11-23T22:11:36.099432Z 0 [Note] Shutting down plugin 'CSV'
+2020-11-23T22:11:36.099648Z 0 [Note] Shutting down plugin 'sha256_password'
+2020-11-23T22:11:36.099897Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2020-11-23T22:11:36.100321Z 0 [Note] Shutting down plugin 'binlog'
+2020-11-23T22:11:36.101287Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: Shutdown complete
+
+2020-11-23T22:12:15.384657Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-11-23T22:12:15.384753Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-11-23T22:12:15.385169Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe (mysqld 5.7.32) starting as process 3420 ...
+2020-11-23T22:12:15.395414Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-23T22:12:15.395957Z 0 [Note] InnoDB: Uses event mutexes
+2020-11-23T22:12:15.396265Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2020-11-23T22:12:15.396691Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-23T22:12:15.397434Z 0 [Note] InnoDB: Number of pools: 1
+2020-11-23T22:12:15.397902Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2020-11-23T22:12:15.400888Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-23T22:12:15.410023Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-23T22:12:15.452781Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-11-23T22:12:15.644454Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-23T22:12:15.645463Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-23T22:12:15.737251Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-23T22:12:15.966187Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2020-11-23T22:12:15.966884Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2020-11-23T22:12:15.967703Z 0 [Note] InnoDB: Waiting for purge to start
+2020-11-23T22:12:16.027258Z 0 [Note] InnoDB: 5.7.32 started; log sequence number 2746739
+2020-11-23T22:12:16.028126Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\htdocs\MIS\CiviCRM\mysql\data\ib_buffer_pool
+2020-11-23T22:12:16.028280Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2020-11-23T22:12:16.048057Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2020-11-23T22:12:16.048784Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2020-11-23T22:12:16.050583Z 0 [Warning] CA certificate ca.pem is self signed.
+2020-11-23T22:12:16.051122Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2020-11-23T22:12:16.051892Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3309
+2020-11-23T22:12:16.052555Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2020-11-23T22:12:16.053023Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2020-11-23T22:12:16.114199Z 0 [Note] InnoDB: Buffer pool(s) load completed at 201123 22:12:16
+2020-11-23T22:12:16.123858Z 0 [Note] Event Scheduler: Loaded 0 events
+2020-11-23T22:12:16.124493Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.32'  socket: ''  port: 3309  MySQL Community Server (GPL)
+2020-11-23T22:20:29.102381Z 23 [Note] Access denied for user ''@'localhost' (using password: NO)
+2020-11-23T22:20:29.478645Z 34 [Note] Access denied for user ''@'localhost' (using password: NO)
+2020-11-26T19:11:01.295391Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-11-26T19:11:01.302535Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-11-26T19:11:01.351260Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe (mysqld 5.7.32) starting as process 1376 ...
+2020-11-26T19:11:01.603611Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-11-26T19:11:01.604542Z 0 [Note] InnoDB: Uses event mutexes
+2020-11-26T19:11:01.605405Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2020-11-26T19:11:01.605852Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-11-26T19:11:01.632141Z 0 [Note] InnoDB: Number of pools: 1
+2020-11-26T19:11:01.671149Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2020-11-26T19:11:01.696369Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-11-26T19:11:01.712905Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-11-26T19:11:01.938152Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-11-26T19:11:01.966645Z 0 [Note] InnoDB: Log scan progressed past the checkpoint lsn 9625422
+2020-11-26T19:11:01.969932Z 0 [Note] InnoDB: Doing recovery: scanned up to log sequence number 9625431
+2020-11-26T19:11:01.980395Z 0 [Note] InnoDB: Database was not shutdown normally!
+2020-11-26T19:11:01.993882Z 0 [Note] InnoDB: Starting crash recovery.
+2020-11-26T19:11:03.411752Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-11-26T19:11:03.412497Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-11-26T19:11:03.413232Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-11-26T19:11:03.595500Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-11-26T19:11:03.598530Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2020-11-26T19:11:03.599401Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2020-11-26T19:11:03.600202Z 0 [Note] InnoDB: Waiting for purge to start
+2020-11-26T19:11:03.805052Z 0 [Note] InnoDB: 5.7.32 started; log sequence number 9625431
+2020-11-26T19:11:03.813920Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2020-11-26T19:11:03.928613Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2020-11-26T19:11:03.929436Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2020-11-26T19:11:03.943911Z 0 [Warning] CA certificate ca.pem is self signed.
+2020-11-26T19:11:03.945613Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2020-11-26T19:11:03.980572Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\htdocs\MIS\CiviCRM\mysql\data\ib_buffer_pool
+2020-11-26T19:11:04.103000Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3309
+2020-11-26T19:11:04.205998Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2020-11-26T19:11:04.206492Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2020-11-26T19:11:04.297271Z 0 [Note] InnoDB: Buffer pool(s) load completed at 201126 19:11:04
+2020-11-26T19:11:04.642332Z 0 [Note] Event Scheduler: Loaded 0 events
+2020-11-26T19:11:04.643366Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.32'  socket: ''  port: 3309  MySQL Community Server (GPL)
+2020-12-05T14:29:57.655277Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: Normal shutdown
+
+2020-12-05T14:29:57.705292Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2020-12-05T14:29:57.706665Z 0 [Note] Shutting down slave threads
+2020-12-05T14:29:57.707714Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2020-12-05T14:29:57.715707Z 0 [Note] Event Scheduler: Purging the queue. 0 events
+2020-12-05T14:29:57.787276Z 0 [Note] Binlog end
+2020-12-05T14:29:57.849653Z 0 [Note] Shutting down plugin 'ngram'
+2020-12-05T14:29:57.850799Z 0 [Note] Shutting down plugin 'partition'
+2020-12-05T14:29:57.851051Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2020-12-05T14:29:57.852076Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2020-12-05T14:29:57.852322Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-12-05T14:29:57.853343Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-12-05T14:29:57.854342Z 0 [Note] Shutting down plugin 'MyISAM'
+2020-12-05T14:29:57.854645Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2020-12-05T14:29:57.855698Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-12-05T14:29:57.855972Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-12-05T14:29:57.856246Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-12-05T14:29:57.856515Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-12-05T14:29:57.856768Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-12-05T14:29:57.857020Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-12-05T14:29:57.857283Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-12-05T14:29:57.857540Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-12-05T14:29:57.857804Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-12-05T14:29:57.858057Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-12-05T14:29:57.858328Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-12-05T14:29:57.858591Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-12-05T14:29:57.858841Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-12-05T14:29:57.859109Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-12-05T14:29:57.859366Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-12-05T14:29:57.859647Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-12-05T14:29:57.859891Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2020-12-05T14:29:57.860164Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-12-05T14:29:57.860437Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-12-05T14:29:57.860703Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-12-05T14:29:57.860957Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-12-05T14:29:57.861242Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-12-05T14:29:57.861504Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-12-05T14:29:57.861762Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-12-05T14:29:57.862001Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-12-05T14:29:57.862254Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2020-12-05T14:29:57.862486Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-12-05T14:29:57.862736Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-12-05T14:29:57.862973Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2020-12-05T14:29:57.863207Z 0 [Note] Shutting down plugin 'InnoDB'
+2020-12-05T14:29:57.887084Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-12-05T14:29:57.887450Z 0 [Note] InnoDB: Starting shutdown...
+2020-12-05T14:29:57.998379Z 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\htdocs\MIS\CiviCRM\mysql\data\ib_buffer_pool
+2020-12-05T14:29:58.009504Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 201205 14:29:58
+2020-12-05T14:29:59.134235Z 0 [Note] InnoDB: Shutdown completed; log sequence number 9625459
+2020-12-05T14:29:59.134909Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-12-05T14:29:59.135239Z 0 [Note] Shutting down plugin 'MEMORY'
+2020-12-05T14:29:59.138179Z 0 [Note] Shutting down plugin 'CSV'
+2020-12-05T14:29:59.138406Z 0 [Note] Shutting down plugin 'sha256_password'
+2020-12-05T14:29:59.138687Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2020-12-05T14:29:59.145628Z 0 [Note] Shutting down plugin 'binlog'
+2020-12-05T14:29:59.182084Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: Shutdown complete
+
+2020-12-05T21:04:06.572905Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-05T21:04:06.574668Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-05T21:04:06.581845Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe (mysqld 5.7.32) starting as process 9060 ...
+2020-12-05T21:04:06.797328Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-12-05T21:04:06.797924Z 0 [Note] InnoDB: Uses event mutexes
+2020-12-05T21:04:06.798264Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2020-12-05T21:04:06.798718Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-12-05T21:04:06.820255Z 0 [Note] InnoDB: Number of pools: 1
+2020-12-05T21:04:06.854941Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2020-12-05T21:04:06.869808Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-12-05T21:04:06.885535Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-12-05T21:04:07.008395Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-12-05T21:04:08.766233Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-12-05T21:04:08.767413Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-12-05T21:04:08.832501Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-12-05T21:04:09.066756Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2020-12-05T21:04:09.067441Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2020-12-05T21:04:09.068301Z 0 [Note] InnoDB: Waiting for purge to start
+2020-12-05T21:04:09.119784Z 0 [Note] InnoDB: 5.7.32 started; log sequence number 9625459
+2020-12-05T21:04:09.122948Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\htdocs\MIS\CiviCRM\mysql\data\ib_buffer_pool
+2020-12-05T21:04:09.130726Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2020-12-05T21:04:09.206119Z 0 [Note] InnoDB: Buffer pool(s) load completed at 201205 21:04:09
+2020-12-05T21:04:09.253693Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2020-12-05T21:04:09.254433Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2020-12-05T21:04:09.289061Z 0 [Warning] CA certificate ca.pem is self signed.
+2020-12-05T21:04:09.290749Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2020-12-05T21:04:09.307101Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3309
+2020-12-05T21:04:09.308358Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2020-12-05T21:04:09.308921Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2020-12-05T21:04:10.794976Z 0 [Note] Event Scheduler: Loaded 0 events
+2020-12-05T21:04:10.795726Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.32'  socket: ''  port: 3309  MySQL Community Server (GPL)
+2020-12-05T21:06:26.465092Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: Normal shutdown
+
+2020-12-05T21:06:26.469597Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2020-12-05T21:06:26.469914Z 0 [Note] Shutting down slave threads
+2020-12-05T21:06:26.470657Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2020-12-05T21:06:26.470961Z 0 [Note] Event Scheduler: Purging the queue. 0 events
+2020-12-05T21:06:26.471395Z 0 [Note] Binlog end
+2020-12-05T21:06:26.472693Z 0 [Note] Shutting down plugin 'ngram'
+2020-12-05T21:06:26.472937Z 0 [Note] Shutting down plugin 'partition'
+2020-12-05T21:06:26.473169Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2020-12-05T21:06:26.473399Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2020-12-05T21:06:26.473632Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-12-05T21:06:26.473921Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-12-05T21:06:26.474167Z 0 [Note] Shutting down plugin 'MyISAM'
+2020-12-05T21:06:26.474413Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2020-12-05T21:06:26.474728Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-12-05T21:06:26.475001Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-12-05T21:06:26.475347Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-12-05T21:06:26.475636Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-12-05T21:06:26.475895Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-12-05T21:06:26.476155Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-12-05T21:06:26.476413Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-12-05T21:06:26.476677Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-12-05T21:06:26.476956Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-12-05T21:06:26.477218Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-12-05T21:06:26.477491Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-12-05T21:06:26.477766Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-12-05T21:06:26.478023Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-12-05T21:06:26.478303Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-12-05T21:06:26.478564Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-12-05T21:06:26.478860Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-12-05T21:06:26.479111Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2020-12-05T21:06:26.479385Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-12-05T21:06:26.479669Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-12-05T21:06:26.479942Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-12-05T21:06:26.480217Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-12-05T21:06:26.480506Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-12-05T21:06:26.481154Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-12-05T21:06:26.481427Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-12-05T21:06:26.481684Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-12-05T21:06:26.481939Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2020-12-05T21:06:26.482175Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-12-05T21:06:26.482434Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-12-05T21:06:26.483035Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2020-12-05T21:06:26.483273Z 0 [Note] Shutting down plugin 'InnoDB'
+2020-12-05T21:06:26.483754Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-12-05T21:06:26.484329Z 0 [Note] InnoDB: Starting shutdown...
+2020-12-05T21:06:26.584862Z 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\htdocs\MIS\CiviCRM\mysql\data\ib_buffer_pool
+2020-12-05T21:06:26.592731Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 201205 21:06:26
+2020-12-05T21:06:27.741943Z 0 [Note] InnoDB: Shutdown completed; log sequence number 9625487
+2020-12-05T21:06:27.742552Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-12-05T21:06:27.742895Z 0 [Note] Shutting down plugin 'MEMORY'
+2020-12-05T21:06:27.743125Z 0 [Note] Shutting down plugin 'CSV'
+2020-12-05T21:06:27.743339Z 0 [Note] Shutting down plugin 'sha256_password'
+2020-12-05T21:06:27.743600Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2020-12-05T21:06:27.744022Z 0 [Note] Shutting down plugin 'binlog'
+2020-12-05T21:06:27.746406Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: Shutdown complete
+
+2020-12-10T12:36:23.952043Z 0 [Warning] TIMESTAMP with implicit DEFAULT value is deprecated. Please use --explicit_defaults_for_timestamp server option (see documentation for more details).
+2020-12-10T12:36:23.993925Z 0 [Note] --secure-file-priv is set to NULL. Operations related to importing and exporting data are disabled
+2020-12-10T12:36:24.067800Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe (mysqld 5.7.32) starting as process 1616 ...
+2020-12-10T12:36:24.814808Z 0 [Note] InnoDB: Mutexes and rw_locks use Windows interlocked functions
+2020-12-10T12:36:24.816608Z 0 [Note] InnoDB: Uses event mutexes
+2020-12-10T12:36:24.818371Z 0 [Note] InnoDB: _mm_lfence() and _mm_sfence() are used for memory barrier
+2020-12-10T12:36:24.819220Z 0 [Note] InnoDB: Compressed tables use zlib 1.2.11
+2020-12-10T12:36:24.867942Z 0 [Note] InnoDB: Number of pools: 1
+2020-12-10T12:36:24.881791Z 0 [Note] InnoDB: Not using CPU crc32 instructions
+2020-12-10T12:36:25.252062Z 0 [Note] InnoDB: Initializing buffer pool, total size = 128M, instances = 1, chunk size = 128M
+2020-12-10T12:36:25.267272Z 0 [Note] InnoDB: Completed initialization of buffer pool
+2020-12-10T12:36:25.385819Z 0 [Note] InnoDB: Highest supported file format is Barracuda.
+2020-12-10T12:36:27.895158Z 0 [Note] InnoDB: Creating shared tablespace for temporary tables
+2020-12-10T12:36:27.896865Z 0 [Note] InnoDB: Setting file '.\ibtmp1' size to 12 MB. Physically writing the file full; Please wait ...
+2020-12-10T12:36:28.539872Z 0 [Note] InnoDB: File '.\ibtmp1' size is now 12 MB.
+2020-12-10T12:36:28.553330Z 0 [Note] InnoDB: 96 redo rollback segment(s) found. 96 redo rollback segment(s) are active.
+2020-12-10T12:36:28.554805Z 0 [Note] InnoDB: 32 non-redo rollback segment(s) are active.
+2020-12-10T12:36:28.557215Z 0 [Note] InnoDB: Waiting for purge to start
+2020-12-10T12:36:28.616205Z 0 [Note] InnoDB: Waiting for purge to start
+2020-12-10T12:36:28.692569Z 0 [Note] InnoDB: 5.7.32 started; log sequence number 9625487
+2020-12-10T12:36:28.735150Z 0 [Note] InnoDB: Loading buffer pool(s) from C:\xampp\htdocs\MIS\CiviCRM\mysql\data\ib_buffer_pool
+2020-12-10T12:36:28.742302Z 0 [Note] Plugin 'FEDERATED' is disabled.
+2020-12-10T12:36:28.926231Z 0 [Note] InnoDB: Buffer pool(s) load completed at 201210 12:36:28
+2020-12-10T12:36:29.128751Z 0 [Note] Found ca.pem, server-cert.pem and server-key.pem in data directory. Trying to enable SSL support using them.
+2020-12-10T12:36:29.129821Z 0 [Note] Skipping generation of SSL certificates as certificate files are present in data directory.
+2020-12-10T12:36:29.245494Z 0 [Warning] CA certificate ca.pem is self signed.
+2020-12-10T12:36:29.247199Z 0 [Note] Skipping generation of RSA key pair as key files are present in data directory.
+2020-12-10T12:36:29.262447Z 0 [Note] Server hostname (bind-address): '127.0.0.1'; port: 3309
+2020-12-10T12:36:29.268696Z 0 [Note]   - '127.0.0.1' resolves to '127.0.0.1';
+2020-12-10T12:36:29.271684Z 0 [Note] Server socket created on IP: '127.0.0.1'.
+2020-12-10T12:36:30.677392Z 0 [Note] Event Scheduler: Loaded 0 events
+2020-12-10T12:36:30.678174Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.7.32'  socket: ''  port: 3309  MySQL Community Server (GPL)
+2020-12-10T12:44:09.149206Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: Normal shutdown
+
+2020-12-10T12:44:09.150150Z 0 [Note] Giving 0 client threads a chance to die gracefully
+2020-12-10T12:44:09.150459Z 0 [Note] Shutting down slave threads
+2020-12-10T12:44:09.151413Z 0 [Note] Forcefully disconnecting 0 remaining clients
+2020-12-10T12:44:09.151706Z 0 [Note] Event Scheduler: Purging the queue. 0 events
+2020-12-10T12:44:09.152107Z 0 [Note] Binlog end
+2020-12-10T12:44:09.153525Z 0 [Note] Shutting down plugin 'ngram'
+2020-12-10T12:44:09.153777Z 0 [Note] Shutting down plugin 'partition'
+2020-12-10T12:44:09.154017Z 0 [Note] Shutting down plugin 'BLACKHOLE'
+2020-12-10T12:44:09.154259Z 0 [Note] Shutting down plugin 'ARCHIVE'
+2020-12-10T12:44:09.154492Z 0 [Note] Shutting down plugin 'PERFORMANCE_SCHEMA'
+2020-12-10T12:44:09.154801Z 0 [Note] Shutting down plugin 'MRG_MYISAM'
+2020-12-10T12:44:09.155050Z 0 [Note] Shutting down plugin 'MyISAM'
+2020-12-10T12:44:09.155309Z 0 [Note] Shutting down plugin 'INNODB_SYS_VIRTUAL'
+2020-12-10T12:44:09.155587Z 0 [Note] Shutting down plugin 'INNODB_SYS_DATAFILES'
+2020-12-10T12:44:09.155862Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESPACES'
+2020-12-10T12:44:09.156150Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN_COLS'
+2020-12-10T12:44:09.156436Z 0 [Note] Shutting down plugin 'INNODB_SYS_FOREIGN'
+2020-12-10T12:44:09.156709Z 0 [Note] Shutting down plugin 'INNODB_SYS_FIELDS'
+2020-12-10T12:44:09.156975Z 0 [Note] Shutting down plugin 'INNODB_SYS_COLUMNS'
+2020-12-10T12:44:09.157245Z 0 [Note] Shutting down plugin 'INNODB_SYS_INDEXES'
+2020-12-10T12:44:09.157608Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLESTATS'
+2020-12-10T12:44:09.157891Z 0 [Note] Shutting down plugin 'INNODB_SYS_TABLES'
+2020-12-10T12:44:09.158163Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_TABLE'
+2020-12-10T12:44:09.158451Z 0 [Note] Shutting down plugin 'INNODB_FT_INDEX_CACHE'
+2020-12-10T12:44:09.158734Z 0 [Note] Shutting down plugin 'INNODB_FT_CONFIG'
+2020-12-10T12:44:09.159006Z 0 [Note] Shutting down plugin 'INNODB_FT_BEING_DELETED'
+2020-12-10T12:44:09.159296Z 0 [Note] Shutting down plugin 'INNODB_FT_DELETED'
+2020-12-10T12:44:09.159570Z 0 [Note] Shutting down plugin 'INNODB_FT_DEFAULT_STOPWORD'
+2020-12-10T12:44:09.159870Z 0 [Note] Shutting down plugin 'INNODB_METRICS'
+2020-12-10T12:44:09.160130Z 0 [Note] Shutting down plugin 'INNODB_TEMP_TABLE_INFO'
+2020-12-10T12:44:09.160419Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_POOL_STATS'
+2020-12-10T12:44:09.160714Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE_LRU'
+2020-12-10T12:44:09.160999Z 0 [Note] Shutting down plugin 'INNODB_BUFFER_PAGE'
+2020-12-10T12:44:09.161274Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX_RESET'
+2020-12-10T12:44:09.161575Z 0 [Note] Shutting down plugin 'INNODB_CMP_PER_INDEX'
+2020-12-10T12:44:09.161861Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM_RESET'
+2020-12-10T12:44:09.162141Z 0 [Note] Shutting down plugin 'INNODB_CMPMEM'
+2020-12-10T12:44:09.162398Z 0 [Note] Shutting down plugin 'INNODB_CMP_RESET'
+2020-12-10T12:44:09.162665Z 0 [Note] Shutting down plugin 'INNODB_CMP'
+2020-12-10T12:44:09.162910Z 0 [Note] Shutting down plugin 'INNODB_LOCK_WAITS'
+2020-12-10T12:44:09.163184Z 0 [Note] Shutting down plugin 'INNODB_LOCKS'
+2020-12-10T12:44:09.163435Z 0 [Note] Shutting down plugin 'INNODB_TRX'
+2020-12-10T12:44:09.163683Z 0 [Note] Shutting down plugin 'InnoDB'
+2020-12-10T12:44:09.164023Z 0 [Note] InnoDB: FTS optimize thread exiting.
+2020-12-10T12:44:09.164445Z 0 [Note] InnoDB: Starting shutdown...
+2020-12-10T12:44:09.275153Z 0 [Note] InnoDB: Dumping buffer pool(s) to C:\xampp\htdocs\MIS\CiviCRM\mysql\data\ib_buffer_pool
+2020-12-10T12:44:09.276960Z 0 [Note] InnoDB: Buffer pool(s) dump completed at 201210 12:44:09
+2020-12-10T12:44:10.378246Z 0 [Note] InnoDB: Shutdown completed; log sequence number 9625515
+2020-12-10T12:44:10.378965Z 0 [Note] InnoDB: Removed temporary tablespace data file: "ibtmp1"
+2020-12-10T12:44:10.379294Z 0 [Note] Shutting down plugin 'MEMORY'
+2020-12-10T12:44:10.379524Z 0 [Note] Shutting down plugin 'CSV'
+2020-12-10T12:44:10.379743Z 0 [Note] Shutting down plugin 'sha256_password'
+2020-12-10T12:44:10.379993Z 0 [Note] Shutting down plugin 'mysql_native_password'
+2020-12-10T12:44:10.380437Z 0 [Note] Shutting down plugin 'binlog'
+2020-12-10T12:44:10.388638Z 0 [Note] C:\xampp\htdocs\MIS\CiviCRM\mysql\bin\mysqld.exe: Shutdown complete
+

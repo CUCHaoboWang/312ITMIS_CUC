@@ -1,0 +1,842 @@
+============ CHANGELOG =============
+
+Version 5.31.0-0      2020-11-06
+* Updated CiviCRM to 5.31.0
+* Updated Drupal to 7.73
+* Updated PHP to 7.3.24
+
+Version 5.30.1-0      2020-10-21
+* Updated CiviCRM to 5.30.1
+* Updated MySQL to 5.7.32
+* Updated phpMyAdmin to 5.0.4
+
+Version 5.30.0-0      2020-10-08
+* Updated CiviCRM to 5.30.0
+* Updated Drush to 8.4.5
+* Updated OpenSSL to 1.1.1h
+* Updated PHP to 7.3.23
+
+Version 5.29.1-1      2020-09-18
+* Updated Drupal to 7.73
+
+Version 5.29.1-0      2020-09-16
+* Updated CiviCRM to 5.29.1
+* Updated Drush to 8.4.2
+* Updated lego to 4.0.1
+* Updated PHP to 7.3.22
+
+Version 5.29.0-0      2020-09-03
+* Updated CiviCRM to 5.29.0
+
+Version 5.28.4-0      2020-09-02
+* Updated CiviCRM to 5.28.4
+
+Version 5.28.3-0      2020-08-28
+* Updated CiviCRM to 5.28.3
+* Updated Drush to 8.4.1
+* Updated SQLite to 3.33.0
+
+Version 5.28.2-0      2020-08-20
+* Updated CiviCRM to 5.28.2
+
+Version 5.28.1-0      2020-08-20
+* Updated Apache to 2.4.46
+* Updated CiviCRM to 5.28.1
+* Updated PHP to 7.3.21
+
+Version 5.28.0-0      2020-08-06
+* Updated CiviCRM to 5.28.0
+
+Version 5.27.4-0      2020-08-04
+* Updated CiviCRM to 5.27.4
+* Updated Drush to 8.4.0
+
+Version 5.27.3-0      2020-07-23
+* Updated CiviCRM to 5.27.3
+
+Version 5.27.2-1      2020-07-22
+* Maintenance release
+
+Version 5.27.2-0      2020-07-15
+* Updated CiviCRM to 5.27.2
+* Updated MySQL to 5.7.31
+* Updated PHP to 7.3.20
+
+Version 5.27.1-0      2020-07-10
+* Updated CiviCRM to 5.27.1
+* Updated lego to 3.8.0
+
+Version 5.27.0-0      2020-07-02
+* Updated CiviCRM to 5.27.0
+* Updated SQLite to 3.32.3
+
+Version 5.26.2-1      2020-06-18
+* Updated Drupal to 7.72
+
+Version 5.26.2-0      2020-06-16
+* Updated CiviCRM to 5.26.2
+* Updated PHP to 7.3.19
+* Updated SQLite to 3.32.2
+
+Version 5.26.1-0      2020-06-06
+* Updated CiviCRM to 5.26.1
+
+Version 5.26.0-0      2020-06-04
+* Updated CiviCRM to 5.26.0
+* Updated Drupal to 7.71
+* Updated Drush to 8.3.5
+* Updated lego to 3.7.0
+* Updated PHP to 7.3.18
+* Updated SQLite to 3.32.1
+
+Version 5.25.0-0      2020-05-07
+* Updated CiviCRM to 5.25.0
+* Updated MySQL to 5.7.30
+
+Version 5.24.6-0      2020-05-01
+* Updated CiviCRM to 5.24.6
+
+Version 5.24.5-1      2020-04-30
+* Maintenance release
+* Updated lego to 3.6.0
+* Updated PHP to 7.3.17
+
+Version 5.24.5-0      2020-04-23
+* Updated CiviCRM to 5.24.5
+
+Version 5.24.4-1      2020-04-22
+* Fixed security vulnerability in OpenSSL CVE-2020-1967
+* Updated OpenSSL to 1.1.1g
+
+Version 5.24.4-0      2020-04-17
+* Updated CiviCRM to 5.24.4
+
+Version 5.24.3-0      2020-04-16
+* Updated CiviCRM to 5.24.3
+
+Version 5.24.2-0      2020-04-11
+* Updated CiviCRM to 5.24.2
+
+Version 5.24.1-0      2020-04-07
+* Updated Apache to 2.4.43
+* Updated CiviCRM to 5.24.1
+* Updated OpenSSL to 1.1.1f
+
+Version 5.24.0-0      2020-04-02
+* Updated CiviCRM to 5.24.0
+* Updated SQLite to 3.31.1
+
+Version 5.23.4-0      2020-03-25
+* Updated CiviCRM to 5.23.4
+* Updated lego to 3.5.0
+* Updated OpenSSL to 1.1.1e
+* Updated phpMyAdmin to 5.0.2
+
+Version 5.23.3-0      2020-03-17
+* Updated CiviCRM to 5.23.3
+
+Version 5.23.1-0      2020-03-11
+* Updated CiviCRM to 5.23.1
+
+Version 5.23.0-0      2020-03-05
+* Updated CiviCRM to 5.23.0
+* Updated lego to 3.4.0
+
+Version 5.22.1-0      2020-02-18
+* Updated CiviCRM to 5.22.1
+* Updated SQLite to 3.31.1.
+
+Version 5.22.0-0      2020-02-06
+* Updated CiviCRM to 5.22.0
+* Updated SQLite to 3.31.0.
+
+Version 5.21.2-0      2020-01-24
+* Updated CiviCRM to 5.21.2
+* Updated lego to 3.3.0
+* Updated MySQL to 5.7.29
+* Updated SQLite to 3.30.1
+
+Version 5.21.1-0      2020-01-11
+* Updated CiviCRM to 5.21.1
+* Updated phpMyAdmin to 5.0.1
+
+Version 5.21.0-0      2020-01-02
+* Updated CiviCRM to 5.21.0
+
+Version 5.20.3-0      2019-12-30
+* Updated CiviCRM to 5.20.3
+* Updated Drupal to 7.69
+* Updated Drush to 8.3.2
+* Updated phpMyAdmin to 5.0.0
+
+Version 5.20.2-0      2019-12-12
+* Updated CiviCRM to 5.20.2
+
+Version 5.20.1-0      2019-12-10
+* Updated CiviCRM to 5.20.1
+
+Version 5.20.0-0      2019-12-05
+* Updated CiviCRM to 5.20.0
+* Updated Drupal to 7.68
+* Updated Drush to 10.1.0
+
+Version 5.19.3-0      2019-11-26
+* Updated CiviCRM to 5.19.3
+* Updated phpMyAdmin to 4.9.2
+
+Version 5.19.2-0      2019-11-21
+* Updated CiviCRM to 5.19.2
+
+Version 5.19.1-0      2019-11-20
+* Updated CiviCRM to 5.19.1
+* Updated Drush to 10.0.2
+* Updated lego to 3.2.0
+
+Version 5.19.0-0      2019-11-07
+* Updated CiviCRM to 5.19.0
+* Updated Drush to 10.0.1
+* Updated PHP to 7.1.33
+
+Version 5.18.4-0      2019-10-23
+* Updated CiviCRM to 5.18.4
+* Updated MySQL to 5.7.28
+
+Version 5.18.3-0      2019-10-16
+* Updated CiviCRM to 5.18.3
+* Updated lego to 3.1.0
+* Updated SQLite to 3.30.1.
+
+Version 5.18.2-0      2019-10-09
+* Updated CiviCRM to 5.18.2
+* Updated SQLite to 3.30.0.
+
+Version 5.18.1-0      2019-10-05
+* Updated CiviCRM to 5.18.1
+
+Version 5.18.0-0      2019-10-04
+* Updated CiviCRM to 5.18.0
+
+Version 5.17.5-0      2019-09-27
+* Updated CiviCRM to 5.17.5
+* Updated OpenSSL to 1.1.1d
+* Updated phpMyAdmin to 4.9.1
+
+Version 5.17.4-0      2019-09-13
+* Updated CiviCRM to 5.17.4
+
+Version 5.17.3-0      2019-09-11
+* Updated CiviCRM to 5.17.3
+
+Version 5.17.2-0      2019-09-10
+* Updated CiviCRM to 5.17.2
+
+Version 5.17.1-0      2019-09-10
+* Updated CiviCRM to 5.17.1
+
+Version 5.17.0-0      2019-09-06
+* Updated CiviCRM to 5.17.0
+
+Version 5.16.4-0      2019-09-03
+* Updated CiviCRM to 5.16.4
+* Updated OpenSSL to 1.1.1c
+* Updated PHP to 7.1.32
+
+Version 5.16.3-0      2019-08-23
+* Updated Apache to 2.4.41
+* Updated CiviCRM to 5.16.3
+* Updated lego to 3.0.2
+
+Version 5.16.2-0      2019-08-15
+* Updated CiviCRM to 5.16.2
+* Updated lego to 3.0.0
+
+Version 5.16.1-0      2019-08-13
+* Updated CiviCRM to 5.16.1
+* Updated PHP to 7.1.31
+
+Version 5.16.0-0      2019-08-08
+* Updated CiviCRM to 5.16.0
+* Updated lego to 2.7.2
+
+Version 5.15.2-0      2019-07-31
+* Updated CiviCRM to 5.15.2
+* Updated lego to 2.7.1
+* Updated MySQL to 5.7.27
+
+Version 5.15.1-0      2019-07-12
+* Updated CiviCRM to 5.15.1
+* Updated Drush to 8.3.0
+* Updated SQLite to 3.29.0.
+
+Version 5.15.0-2      2019-07-07
+* Maintenance release
+
+Version 5.15.0-1      2019-07-06
+* Maintenance release
+
+Version 5.15.0-0      2019-07-04
+* Updated CiviCRM to 5.15.0
+
+Version 5.14.2-3      2019-07-03
+* Maintenance release
+
+Version 5.14.2-2      2019-07-02
+* Maintenance release
+
+Version 5.14.2-1      2019-07-01
+* Maintenance release
+
+Version 5.14.2-0      2019-06-30
+* Updated CiviCRM to 5.14.2
+
+Version 5.14.1-0      2019-06-18
+* Updated CiviCRM to 5.14.1
+
+Version 5.14.0-0      2019-06-06
+* Updated CiviCRM to 5.14.0
+* Updated lego to 2.6.0
+* Updated OpenSSL to 1.0.2s
+* Updated PHP to 7.1.30
+* Updated phpMyAdmin to 4.9.0.1
+
+Version 5.13.5-0      2019-05-30
+* Updated CiviCRM to 5.13.5
+
+Version 5.13.4-0      2019-05-16
+* Updated CiviCRM to 5.13.4
+
+Version 5.13.3-0      2019-05-15
+* Add Bitnami HTTPS Configuration Tool (bncert)
+* Updated CiviCRM to 5.13.3
+* Updated Drupal to 7.67
+
+Version 5.13.2-0      2019-05-07
+* Updated CiviCRM to 5.13.2
+* Updated PHP to 7.1.29
+
+Version 5.13.1-0      2019-05-03
+* Updated CiviCRM to 5.13.1
+
+Version 5.13.0-0      2019-05-02
+* Updated CiviCRM to 5.13.0
+* Updated MySQL to 5.7.26
+
+Version 5.12.4-0      2019-04-26
+* Updated CiviCRM to 5.12.4
+* Updated lego to 2.5.0
+
+Version 5.12.3-0      2019-04-21
+* Updated CiviCRM to 5.12.3
+
+Version 5.12.2-0      2019-04-20
+* Updated CiviCRM to 5.12.2
+* Updated Drupal to 7.66
+* Updated SQLite to 3.28.0
+
+Version 5.12.1-0      2019-04-16
+* Updated CiviCRM to 5.12.1
+* Updated PHP to 7.1.28
+
+Version 5.12.0-1      2019-04-09
+* Fix Apache Carpe Diem vulnerability CVE-2019-0211
+* Updated Apache to 2.4.39
+
+Version 5.12.0-0      2019-04-08
+* Updated CiviCRM to 5.12.0
+* Updated Drush to 8.2.3
+* Updated lego to 2.4.0
+
+Version 5.11.0-1      2019-03-22
+* Security release SA-CORE-2019-004
+* Updated Drupal to 7.65
+* Updated Drush to 8.2.1
+* Updated lego to 2.3.0
+* Updated PHP to 7.1.27
+
+Version 5.11.0-0      2019-03-07
+* Updated CiviCRM to 5.11.0
+* Updated OpenSSL to 1.0.2r
+* Updated SQLite to 3.27.2
+
+Version 5.10.4-0      2019-02-25
+* Updated CiviCRM to 5.10.4
+
+Version 5.10.3-0      2019-02-21
+* Updated CiviCRM to 5.10.3
+
+Version 5.10.2-0      2019-02-15
+* Updated CiviCRM to 5.10.2
+
+Version 5.10.1-0      2019-02-12
+* Updated CiviCRM to 5.10.1
+* Updated lego to 2.2.0
+* Updated SQLite to 3.27.1
+
+Version 5.10.0-0      2019-02-07
+* Updated Apache to 2.4.38
+* Updated CiviCRM to 5.10.0
+* Updated Drupal to 7.64
+* Updated lego to 2.1.0
+* Updated MySQL to 5.7.25
+* Updated phpMyAdmin to 4.8.5
+
+Version 5.9.1-2      2019-01-17
+* Updated Drupal to 7.63
+* Updated PHP to 7.1.26
+
+Version 5.9.1-1      2019-01-17
+* Updated lego to 2.0.1
+
+Version 5.9.1-0      2019-01-17
+* Updated CiviCRM to 5.9.1
+* Updated SQLite to 3.26.0
+
+Version 5.9.0-0      2019-01-03
+* Updated CiviCRM to 5.9.0
+* Updated SQLite to 3260000
+
+Version 5.8.2-0      2018-12-18
+* Updated CiviCRM to 5.8.2
+
+Version 5.8.1-0      2018-12-13
+* Updated CiviCRM to 5.8.1
+* Updated PHP to 7.1.25
+* Updated phpMyAdmin to 4.8.4
+
+Version 5.8.0-0      2018-12-06
+* Updated CiviCRM to 5.8.0
+
+Version 5.7.2-1      2018-12-02
+* Updated Drush to 8.1.18
+* Updated OpenSSL to 1.0.2q
+
+Version 5.7.2-0      2018-11-21
+* Updated CiviCRM to 5.7.2
+
+Version 5.7.1-0      2018-11-21
+* Updated CiviCRM to 5.7.1
+* Updated Drupal to 7.61
+* Updated PHP to 7.1.24
+
+Version 5.7.0-0      2018-11-08
+* Added support for OS X VM
+* Updated Apache to 2.4.37
+* Updated CiviCRM to 5.7.0
+* Updated lego to 1.2.1
+* Updated MySQL to 5.7.24
+
+Version 5.6.1-0      2018-10-24
+* Updated CiviCRM to 5.6.1
+* Updated Drupal to 7.60
+* Updated lego to 1.1.0
+
+Version 5.6.0-1      2018-10-18
+* Updated Drupal to 7.60 (security release SA-CORE-2018-006)
+* Fixed SpectreRSB Vulnerability (CVE-2018-15572)
+* Updated PHP to 7.1.23
+
+Version 5.6.0-0      2018-10-04
+* Updated Apache to 2.4.35
+* Updated CiviCRM to 5.6.0
+* Updated PHP to 7.1.22
+
+Version 5.5.3-0      2018-09-26
+* Updated CiviCRM to 5.5.3
+
+Version 5.5.2-0      2018-09-21
+* Updated CiviCRM to 5.5.2
+* Updated PHP to 7.0.32
+
+Version 5.5.1-0      2018-09-17
+* Updated CiviCRM to 5.5.1
+
+Version 5.5.0-0      2018-09-12
+* Added Lego tool for configuring Let's encrypt with Apache
+* Updated CiviCRM to 5.5.0
+* Updated lego to 1.0.1
+
+Version 5.4.1-0      2018-08-27
+* Updated CiviCRM to 5.4.1
+* Updated phpMyAdmin to 4.8.3
+
+Version 5.4.0-0      2018-08-22
+* Updated CiviCRM to 5.4.0
+* Updated MySQL to 5.7.23
+* Updated OpenSSL to 1.0.2p
+
+Version 5.3.2-0      2018-07-26
+* Updated CiviCRM to 5.3.2
+* Updated PHP to 7.0.31
+
+Version 5.3.1-0      2018-07-19
+* Updated Apache to 2.4.34
+* Updated CiviCRM to 5.3.1
+
+Version 5.3.0-0      2018-07-06
+* Updated CiviCRM to 5.3.0
+* Updated phpMyAdmin to 4.8.2
+
+Version 5.2.2-0      2018-06-20
+* Updated CiviCRM to 5.2.2
+
+Version 5.2.1-0      2018-06-11
+* Updated PageSpeed to 1.13.35.2
+* Updated CiviCRM to 5.2.1
+* Updated Drush to 8.1.17
+* Updated phpMyAdmin to 4.8.1
+
+Version 5.1.2-0      2018-05-18
+* Updated CiviCRM to 5.1.2
+
+Version 5.1.1-0      2018-05-16
+* Updated CiviCRM to 5.1.1
+* Updated MySQL to 5.7.22
+* Updated PHP to 7.0.30
+* Updated SQLite to 3.18.0
+
+Version 5.0.2-0      2018-04-26
+* Updated CiviCRM to 5.0.2
+
+Version 5.0.1-0      2018-04-20
+* Updated CiviCRM to 5.0.1
+* Updated PHP to 7.0.29
+* Updated phpMyAdmin to 4.8.0.1
+
+Version 5.0.0-0      2018-04-05
+* Updated Apache to 2.4.33
+* Updated CiviCRM to 5.0.0
+* Updated OpenSSL to 1.0.2o
+
+Version 4.7.31-2      2018-03-30
+* Fixed issue in Azure
+
+Version 4.7.31-1      2018-03-29
+* Security release: SA-CORE-2018-002
+* Updated PHP to 7.0.28
+
+Version 4.7.31-0      2018-03-08
+* Updated CiviCRM to 4.7.31
+* Updated Drush to 8.1.16
+* Updated phpMyAdmin to 4.7.9
+
+Version 4.7.30-0      2018-02-09
+* Generate the SSL certificates at installation time
+(boot time in the cloud images and virtual machines)
+* Updated CiviCRM to 4.7.30
+* Updated MySQL to 5.7.21
+* Updated PHP to 7.0.27
+* Updated phpMyAdmin to 4.7.7
+
+Version 4.7.29-0      2017-12-26
+* Updated CiviCRM to 4.7.29
+
+Version 4.7.27-1      2017-12-22
+* Disable FTP configuration for modules
+* Updated OpenSSL to 1.0.2n
+* Updated PHP to 7.0.26
+* Updated phpMyAdmin to 4.7.6
+
+Version 4.7.27-0      2017-11-13
+* Add bnsupport tool
+* Updated Apache to 2.4.29
+* Updated CiviCRM to 4.7.27
+* Updated Drush to 8.1.15
+* Updated MySQL to 5.7.20
+* Updated OpenSSL to 1.0.2l
+* Updated PHP to 7.0.24
+
+Version 4.7.25-0      2017-10-04
+* Updated CiviCRM to 4.7.25
+* Updated Drush to 8.1.13
+
+Version 4.7.24-0      2017-09-08
+* Updated CiviCRM to 4.7.24
+* Updated PHP to 7.0.23
+
+Version 4.7.23-2      2017-09-01
+* Updated MySQL to 5.7.19
+* Updated phpMyAdmin to 4.7.4
+
+Version 4.7.23-1      2017-08-24
+* Updated PHP to 7.0.22
+* Updated phpMyAdmin to 4.7.3
+
+Version 4.7.23-0      2017-08-15
+* Updated ctools plugin to ctools-7.x-1.12. CVE-2015-7875
+* Updated phpMyAdmin to 4.7.2
+* Updated Apache to 2.4.27
+* Updated PHP to 5.6.31
+* Updated CiviCRM to 4.7.23
+* Updated MySQL to 5.6.37
+
+Version 4.7.20-0      2017-06-12
+* Updated CiviCRM to 4.7.20
+* Fix sudo vulnerability (CVE-2017-1000367)
+* Updated OpenSSL to 1.0.2l
+
+Version 4.7.18-1      2017-05-15
+* Updated MySQL to 5.6.36
+* Updated Drush to 8.1.11
+
+Version 4.7.18-0      2017-04-07
+* Updated CiviCRM to 4.7.18
+* Updated phpMyAdmin to 4.7.0
+
+Version 4.7.17-0      2017-03-09
+* Updated CiviCRM to 4.7.17
+* Updated Drush to 8.1.10
+* Updated phpMyAdmin to 4.6.6
+
+Version 4.7.16-0      2017-02-06
+* Updated CiviCRM to 4.7.16
+* Updated OpenSSL to 1.0.2k (Security fixes for CVE-2017-3731, CVE-2017-3731, CVE-2017-3731, and CVE-2016-7055)
+* Updated PHP to 5.6.30
+
+Version 4.7.15-1      2017-01-18
+* Updated Drush to 8.1.9
+
+Version 4.7.15-0      2017-01-10
+* Updated CiviCRM to 4.7.15
+* Updated Apache to 2.4.25
+* Updated MySQL to 5.6.35
+* Updated PHP to 5.6.29
+
+Version 4.7.14-0      2016-12-08
+* Updated CiviCRM to 4.7.14
+* Updated phpMyAdmin to 4.6.5.2
+* Updated Drush to 8.1.8
+
+Version 4.7.13-0      2016-11-23
+* Updated CiviCRM to 4.7.13
+* Updated PHP to 5.6.28
+* Updated MySQL to 5.6.34
+
+Version 4.7.12-0      2016-10-06
+* Updated CiviCRM to 4.7.12
+
+Version 4.7.11-1      2016-09-28
+* Updated OpenSSL to 1.0.2j (Security fix CVE-2016-6304)
+* Updated MySQL to 5.6.33
+* Updated PHP to 5.6.26
+
+Version 4.7.11-0      2016-09-08
+* Updated CiviCRM to 4.7.11
+* Updated phpMyAdmin to 4.6.4
+* Updated PHP to 5.6.25
+* Patched Off-Path TCP Linux Kernel Vulnerability in Cloud Images and Virtual Machines (Security release CVE-2016-5696)
+
+Version 4.7.10-0      2016-08-03
+* Updated CiviCRM to 4.7.10
+* Updated MySQL to 5.6.32
+
+Version 4.7.9-1      2016-07-23
+* Updated PHP to 5.6.24 (Security release: HTTP_PROXY is improperly trusted by some PHP libraries and applications)
+* Blocked Proxy request header in the web server (Security issue CVE-2016-5385, CVE-2016-5387, CVE-2016-1000110)
+* Updated Apache to 2.4.23
+
+Version 4.7.9-0      2016-07-06
+* Updated CiviCRM to 4.7.9
+* Updated phpMyAdmin to 4.6.3
+
+Version 4.7.8-2      2016-06-30
+* Fixed a bug in Windows related to crashing with PATH longer than 256 characters
+* Updated PHP to 5.6.23
+
+Version 4.7.8-1      2016-06-16
+* Updated Drupal to 7.44 (security release SA-CORE-2016-002)
+
+Version 4.7.8-0      2016-06-07
+* Updated CiviCRM to 4.7.8
+* Updated MySQL to 5.6.31
+* Updated phpMyAdmin to 4.6.2
+* Updated PHP to 5.6.22 (Security release CVE-2016-5096, CVE-2016-5094, CVE-2013-7456, CVE-2016-5093)
+* Updated phpMyAdmin to 4.6.1
+
+Version 4.7.7-0      2016-05-06
+* Updated CiviCRM to 4.7.7
+* Updated PHP to 5.6.21 (Security release CVE-2016-3074)
+* Updated OpenSSL to 1.0.2h (Security release CVE-2016-2108 CVE-2016-2107)
+* Updated PageSpeed to 1.9.32.14
+* Updated MySQL to 5.6.30
+* Updated Apache to 2.4.20
+
+Version 4.7.6-0      2016-04-12
+* Updated CiviCRM to 4.7.6
+* Updated phpMyAdmin to 4.6.0
+
+Version 4.6.11-1      2016-04-06
+* Updated Drupal to 7.43
+* Updated phpMyAdmin to 4.5.5.1
+* Updated PHP to 5.6.20
+* Updated OpenSSL to 1.0.2g (Security release CVE-2016-0800)
+* Updated MySQL to 5.6.29
+* Updated libpng to 1.5.26 (Security release CVE-2015-8540)
+
+Version 4.6.11-0      2016-01-07
+* Updated CiviCRM to 4.6.11
+* Updated Apache to 2.4.18
+* Updated MySQL to 5.6.28
+* Updated OpenSSL to 1.0.1q
+* Updated phpMyAdmin to 4.5.2
+
+Version 4.6.10-1      2015-11-17
+* Updated libpng to 1.5.24 (security issue)
+
+Version 4.6.10-0      2015-11-09
+* Updated CiviCRM to 4.6.10
+
+Version 4.6.9-1      2015-10-27
+* Updated MySQL to 5.6.27
+
+Version 4.6.9-0      2015-10-14
+* Updated CiviCRM to 4.6.9
+
+Version 4.6.8-0      2015-10-02
+* Updated CiviCRM to 4.6.8
+
+Version 4.6.6-1      2015-09-22
+* Updated PHP to 5.5.29
+* Updated phpMyAdmin to 4.4.13.1
+* Updated Apache to 2.4.16
+
+Version 4.6.6-0      2015-08-06
+* Updated CiviCRM to 4.6.6
+
+Version 4.6.5-0      2015-07-17
+* Updated CiviCRM to 4.6.5
+
+Version 4.6.4-1      2015-07-10
+* Updated OpenSSL to 1.0.1p
+
+Version 4.6.4-0      2015-06-18
+* Updated CiviCRM to 4.6.4
+* Updated PHP to 5.5.26
+* Updated MySQL to 5.6.25
+
+Version 4.6.3-0      2015-05-25
+* Updated CiviCRM to 4.6.3
+* Updated PHP to 5.5.25
+* Updated phpMyAdmin to 4.4.7
+* Dropping RC4 from Apache SSLCipherSuite directive
+* Updated phpMyAdmin to 4.4.3
+* Updated PHP to 5.4.40
+
+Version 4.6.2-0      2015-04-17
+* Updated CiviCRM to 4.6.2
+
+Version 4.6.0-0      2015-04-06
+* Updated CiviCRM to 4.6.0
+* Updated OpenSSL to 1.0.1m
+* Updated PHP to 5.4.39
+
+Version 4.5.8-0      2015-03-06
+* Updated CiviCRM to 4.5.8
+* Updated OpenSSL to 1.0.1l
+* Updated PHP to 5.4.38
+
+Version 4.5.6-0      2015-02-06
+* Updated PHP to 5.4.37
+* Updated Apache to 2.4.12
+* Updated MySQL to 5.5.42 for Linux and Windows
+* Updated PageSpeed to 1.9.32.3
+* Updated phpMyAdmin to 4.3.7
+* Updated OpenSSL to 1.0.1k (Linux and OS X)
+* Updated CiviCRM to 4.5.6
+
+Version 4.5.5-0      2014-12-18
+* Updated CiviCRM to 4.5.5
+* Updated PHP to 5.4.35
+* Updated phpMyAdmin to 4.2.12
+
+Version 4.5.4-0      2014-11-20
+* Updated CiviCRM to 4.5.4
+
+Version 4.5.3-0      2014-11-08
+* Updated CiviCRM to 4.5.3
+
+Version 4.5.2-0      2014-10-22
+* (Version only available for OS X)
+* Fix MySQL startup issue for OS X Yosemite
+* Updated PHP to 5.4.34
+* Updated OpenSSL to 1.0.1j
+
+Version 4.5.2-0      2014-10-16
+* Updated CiviCRM to 4.5.2
+
+Version 4.5.1-0      2014-10-15
+* Updated CiviCRM to 4.5.1
+* Added OCI8 module. It requires InstantClient 11.2.
+* Updated phpMyAdmin to 4.2.9.1
+* Updated MySQL to 5.5.40
+* Updated PHP to 5.4.33
+* Added banner with credentials info (VMs and Cloud Images)
+* Updated OpenSSL to 1.0.1i
+* Updated Apache to 2.4.10
+* Updated XDebug to 2.2.5
+* Updated XCache to 3.1.0
+* Updated mongo-php-driver to 1.5.4
+* Updated php-couchbase to 1.1.5
+* Updated Libxslt to 1.1.28
+* Updated Libxml2 to 2.9.1
+
+Version 4.4.6-0      2014-07-02
+* Updated CiviCRM to 4.4.6
+* Updated PHP to 5.4.30
+* Updated phpMyAdmin to 4.2.5
+* Updated OpenSSL to 1.0.1h
+* Added libv8 and v8js PHP extension for Linux and OS X
+
+Version 4.4.5-0      2014-04-21
+* Updated CiviCRM to 4.4.5-0
+
+Version 4.4.4-1      2014-04-08
+* Updated OpenSSL to 1.0.1g
+* Updated phpMyAdmin to 4.1.12
+* Improved Apache configuration for PHP-FPM mode
+* Updated Apache to 2.4.9
+
+Version 4.4.4-0      2014-03-18
+* Updated PHP to 5.4.26
+* Updated phpMyAdmin to 4.1.9
+* Updated MySQL to 5.5.36
+* Updated CiviCRM to 4.4.4
+* Updated phpMyAdmin to 4.1.4
+* Updated PHP to 5.4.24
+* Updated OpenSSL to 1.0.1f in Linux and OSX
+* Updated phpMyAdmin to 4.1.0
+* Updated PHP to 5.4.23
+
+Version 4.4.3-0      2013-12-10
+* Updated CiviCRM to 4.4.3
+* Updated CiviCRM to 7.24
+* Updated CiviCRM to 7.24
+* Added appdomain and appurl features to bnconfig
+
+Version 4.4.2-0      2013-11-21
+* Updated CiviCRM to 4.4.2
+* Updated PHP to 5.4.22
+* Updated phpMyAdmin to 4.0.9
+
+Version 4.4.1-0      2013-11-08
+* Updated CiviCRM to 4.4.1
+
+Version 4.4.0-0      2013-10-30
+* Updated CiviCRM to 4.4.0
+* Updated PHP to 5.4.21
+* Updated phpMyAdmin to 4.0.8
+
+Version 4.3.7-0      2013-10-03
+* Updated CiviCRM to 4.3.7
+* Added PHP-FPM support for cloud images and VMs
+
+Version 4.3.6-0      2013-09-26
+* Updated CiviCRM to 4.3.6
+* Updated PHP to 5.4.20
+
+Version 4.3.5-1      2013-08-27
+* Updated PHP to 5.4.19
+* Improved mod_pagespeed settings for better performance (unix)
+
+Version 4.3.5-0      2013-08-13
+* Initial release, bundles Apache 2.4.6, PHP 5.4.17, MySQL 5.5.32 and
+CiviCRM 4.3.5

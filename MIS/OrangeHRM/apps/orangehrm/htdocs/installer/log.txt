@@ -1,0 +1,50 @@
+Client Info
+
+User Agent : VMware InstallBuilder HTTP Client
+Remote Address : 127.0.0.1
+
+Server Info
+
+Host : localhost:85
+PHP Version : 7.3.24
+Server : Apache
+Admin : admin@example.com
+
+Document Root : C:/xampp/htdocs/MIS/OrangeHRM/apache2/htdocs
+ROOT_PATH : C:\xampp\htdocs\MIS\OrangeHRM\apps\orangehrm\htdocs
+
+OrangeHRM Installation Log
+
+Thu, 03 Dec 2020 10:10:43 +0000 DB Creation - Starting
+Thu, 03 Dec 2020 10:10:43 +0000 DB Creation - Done
+Thu, 03 Dec 2020 10:10:43 +0000 DB Creation - No Errors
+Thu, 03 Dec 2020 10:10:43 +0000 Fill Data Phase 1 - Starting
+Thu, 03 Dec 2020 10:10:43 +0000 Fill Data Phase 1 - Connected to the DB Server
+Thu, 03 Dec 2020 10:10:43 +0000 Fill Data Phase 1 - Selected the DB
+Thu, 03 Dec 2020 10:10:43 +0000 Fill Data Phase 1 - Reading DB Script
+Thu, 03 Dec 2020 10:10:43 +0000 Fill Data Phase 1 - Opened DB Script
+Thu, 03 Dec 2020 10:10:43 +0000 Fill Data Phase 1 - Read DB script
+Thu, 03 Dec 2020 10:10:43 +0000 Fill Data Phase 1 - There are 323 Statements in the DB script
+Thu, 03 Dec 2020 10:11:03 +0000 MySQL Procedure Error:No database selected
+Thu, 03 Dec 2020 10:11:03 +0000 Fill Data Phase 1 - Done
+Thu, 03 Dec 2020 10:11:03 +0000 Fill Data Phase 1 - No Errors
+Thu, 03 Dec 2020 10:11:03 +0000 Fill Data Phase 2 - Starting
+Thu, 03 Dec 2020 10:11:03 +0000 Fill Data Phase 2 - Connected to the DB Server
+Thu, 03 Dec 2020 10:11:03 +0000 Fill Data Phase 2 - Selected the DB
+Thu, 03 Dec 2020 10:11:03 +0000 Fill Data Phase 2 - Reading DB Script
+Thu, 03 Dec 2020 10:11:03 +0000 Fill Data Phase 2 - Opened DB Script
+Thu, 03 Dec 2020 10:11:03 +0000 Fill Data Phase 2 - Read DB script
+Thu, 03 Dec 2020 10:11:03 +0000 Fill Data Phase 2 - There are 204 Statements in the DB script
+Thu, 03 Dec 2020 10:11:04 +0000 MySQL Event Error:No database selected
+Thu, 03 Dec 2020 10:11:04 +0000 Fill Data Phase 1 - Connected to the DB Server
+Thu, 03 Dec 2020 10:11:04 +0000 Fill Data Phase 2 - Done
+Thu, 03 Dec 2020 10:11:04 +0000 Fill Data Phase 2 - No Errors
+Thu, 03 Dec 2020 10:11:04 +0000 Create DB user - Starting
+Thu, 03 Dec 2020 10:11:04 +0000 Create DB user - Done
+Thu, 03 Dec 2020 10:11:04 +0000 Create DB user - No Errors
+Thu, 03 Dec 2020 10:11:04 +0000 Create OrangeHRM user - Starting
+Thu, 03 Dec 2020 10:11:04 +0000 Create OrangeHRM user - Done
+Thu, 03 Dec 2020 10:11:04 +0000 Create OrangeHRM user - No Errors
+Thu, 03 Dec 2020 10:11:04 +0000 Write Conf - Starting
+Thu, 03 Dec 2020 10:11:04 +0000 Write Conf - Done
+Thu, 03 Dec 2020 10:11:04 +0000 Write Conf - No Errors

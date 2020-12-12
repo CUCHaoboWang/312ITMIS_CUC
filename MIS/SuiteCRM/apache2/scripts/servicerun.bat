@@ -1,0 +1,16 @@
+@echo off
+rem START or STOP Apache Service
+rem --------------------------------------------------------
+rem Check if argument is STOP or START
+
+if not ""%1"" == ""START"" goto stop
+
+net start suitecrmApache
+goto end
+
+:stop
+
+"C:/xampp/htdocs/MIS/SuiteCRM/apache2\bin\httpd.exe" -n "suitecrmApache" -k stop
+
+:end
+exit

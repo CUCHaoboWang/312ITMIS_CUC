@@ -1,0 +1,43 @@
+[Sat Dec 05 21:08:45.497155 2020] [ssl:warn] [pid 8444:tid 536] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:08:45.549136 2020] [ssl:warn] [pid 8444:tid 536] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:08:45.742145 2020] [mpm_winnt:notice] [pid 8444:tid 536] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Sat Dec 05 21:08:45.742145 2020] [mpm_winnt:notice] [pid 8444:tid 536] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Sat Dec 05 21:08:45.742145 2020] [core:notice] [pid 8444:tid 536] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Mahara\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Mahara/apache2 -f C:\\xampp\\htdocs\\MIS\\Mahara\\apache2\\conf\\httpd.conf'
+[Sat Dec 05 21:08:45.747144 2020] [mpm_winnt:notice] [pid 8444:tid 536] AH00418: Parent: Created child process 1124
+[Sat Dec 05 21:08:46.148118 2020] [ssl:warn] [pid 1124:tid 500] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:08:46.189124 2020] [ssl:warn] [pid 1124:tid 500] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:08:46.216123 2020] [mpm_winnt:notice] [pid 1124:tid 500] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 05 21:08:54.537107 2020] [mpm_winnt:notice] [pid 8444:tid 536] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 05 21:08:56.539103 2020] [mpm_winnt:notice] [pid 1124:tid 500] AH00364: Child: All worker threads have exited.
+[Sat Dec 05 21:08:56.568100 2020] [mpm_winnt:notice] [pid 8444:tid 536] AH00430: Parent: Child process 1124 exited successfully.
+[Sat Dec 05 21:08:58.368092 2020] [ssl:warn] [pid 6556:tid 484] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:08:58.424092 2020] [ssl:warn] [pid 6556:tid 484] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:08:58.445098 2020] [mpm_winnt:notice] [pid 6556:tid 484] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Sat Dec 05 21:08:58.445098 2020] [mpm_winnt:notice] [pid 6556:tid 484] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Sat Dec 05 21:08:58.445098 2020] [core:notice] [pid 6556:tid 484] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Mahara\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Mahara/apache2 -f C:\\xampp\\htdocs\\MIS\\Mahara\\apache2\\conf\\httpd.conf'
+[Sat Dec 05 21:08:58.448092 2020] [mpm_winnt:notice] [pid 6556:tid 484] AH00418: Parent: Created child process 9324
+[Sat Dec 05 21:08:58.755087 2020] [ssl:warn] [pid 9324:tid 484] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:08:58.801108 2020] [ssl:warn] [pid 9324:tid 484] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:08:58.825106 2020] [mpm_winnt:notice] [pid 9324:tid 484] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 05 21:10:33.217790 2020] [mpm_winnt:notice] [pid 6556:tid 484] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 05 21:10:35.219784 2020] [mpm_winnt:notice] [pid 9324:tid 484] AH00364: Child: All worker threads have exited.
+[Sat Dec 05 21:10:35.248784 2020] [mpm_winnt:notice] [pid 6556:tid 484] AH00430: Parent: Child process 9324 exited successfully.
+[Sat Dec 05 21:10:37.099770 2020] [ssl:warn] [pid 8792:tid 556] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:10:37.154773 2020] [ssl:warn] [pid 8792:tid 556] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:10:37.175772 2020] [mpm_winnt:notice] [pid 8792:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Sat Dec 05 21:10:37.175772 2020] [mpm_winnt:notice] [pid 8792:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Sat Dec 05 21:10:37.175772 2020] [core:notice] [pid 8792:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Mahara\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Mahara/apache2 -f C:\\xampp\\htdocs\\MIS\\Mahara\\apache2\\conf\\httpd.conf'
+[Sat Dec 05 21:10:37.178773 2020] [mpm_winnt:notice] [pid 8792:tid 556] AH00418: Parent: Created child process 9008
+[Sat Dec 05 21:10:37.503782 2020] [ssl:warn] [pid 9008:tid 488] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:10:37.555808 2020] [ssl:warn] [pid 9008:tid 488] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 21:10:37.575769 2020] [mpm_winnt:notice] [pid 9008:tid 488] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 10 12:33:02.722632 2020] [mpm_winnt:notice] [pid 8792:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 10 12:33:04.752016 2020] [mpm_winnt:notice] [pid 9008:tid 488] AH00364: Child: All worker threads have exited.
+[Thu Dec 10 12:33:04.861352 2020] [mpm_winnt:notice] [pid 8792:tid 556] AH00430: Parent: Child process 9008 exited successfully.
+[Thu Dec 10 12:36:24.631715 2020] [ssl:warn] [pid 1636:tid 556] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:24.718713 2020] [ssl:warn] [pid 1636:tid 556] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:25.258714 2020] [mpm_winnt:notice] [pid 1636:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Thu Dec 10 12:36:25.258714 2020] [mpm_winnt:notice] [pid 1636:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Dec 10 12:36:25.258714 2020] [core:notice] [pid 1636:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Mahara\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Mahara/apache2 -f C:\\xampp\\htdocs\\MIS\\Mahara\\apache2\\conf\\httpd.conf'
+[Thu Dec 10 12:36:25.261717 2020] [mpm_winnt:notice] [pid 1636:tid 556] AH00418: Parent: Created child process 3204
+[Thu Dec 10 12:36:27.523677 2020] [ssl:warn] [pid 3204:tid 496] AH01909: localhost:450:0 server certificate does NOT include an ID which matches the server name

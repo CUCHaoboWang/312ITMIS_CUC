@@ -1,0 +1,78 @@
+[Thu Dec 03 10:10:28.949213 2020] [ssl:warn] [pid 6644:tid 516] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:10:28.996089 2020] [ssl:warn] [pid 6644:tid 516] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:10:29.121113 2020] [mpm_winnt:notice] [pid 6644:tid 516] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Thu Dec 03 10:10:29.121113 2020] [mpm_winnt:notice] [pid 6644:tid 516] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Dec 03 10:10:29.121113 2020] [core:notice] [pid 6644:tid 516] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/OrangeHRM/apache2 -f C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\conf\\httpd.conf'
+[Thu Dec 03 10:10:29.136716 2020] [mpm_winnt:notice] [pid 6644:tid 516] AH00418: Parent: Created child process 4760
+[Thu Dec 03 10:10:29.417971 2020] [ssl:warn] [pid 4760:tid 496] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:10:29.449222 2020] [ssl:warn] [pid 4760:tid 496] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:10:29.464845 2020] [mpm_winnt:notice] [pid 4760:tid 496] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 03 10:10:36.230486 2020] [mpm_winnt:notice] [pid 6644:tid 516] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 03 10:10:38.261710 2020] [mpm_winnt:notice] [pid 4760:tid 496] AH00364: Child: All worker threads have exited.
+[Thu Dec 03 10:10:38.277320 2020] [mpm_winnt:notice] [pid 6644:tid 516] AH00430: Parent: Child process 4760 exited successfully.
+[Thu Dec 03 10:10:40.105450 2020] [ssl:warn] [pid 4180:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:10:40.136705 2020] [ssl:warn] [pid 4180:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:10:40.167954 2020] [mpm_winnt:notice] [pid 4180:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Thu Dec 03 10:10:40.167954 2020] [mpm_winnt:notice] [pid 4180:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Dec 03 10:10:40.167954 2020] [core:notice] [pid 4180:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/OrangeHRM/apache2 -f C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\conf\\httpd.conf'
+[Thu Dec 03 10:10:40.167954 2020] [mpm_winnt:notice] [pid 4180:tid 556] AH00418: Parent: Created child process 4312
+[Thu Dec 03 10:10:40.449196 2020] [ssl:warn] [pid 4312:tid 472] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:10:40.496082 2020] [ssl:warn] [pid 4312:tid 472] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:10:40.511709 2020] [mpm_winnt:notice] [pid 4312:tid 472] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 03 10:11:07.324180 2020] [mpm_winnt:notice] [pid 4180:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 03 10:11:09.355421 2020] [mpm_winnt:notice] [pid 4312:tid 472] AH00364: Child: All worker threads have exited.
+[Thu Dec 03 10:11:09.386671 2020] [mpm_winnt:notice] [pid 4180:tid 556] AH00430: Parent: Child process 4312 exited successfully.
+[Thu Dec 03 10:11:45.090429 2020] [ssl:warn] [pid 5024:tid 564] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:11:45.137307 2020] [ssl:warn] [pid 5024:tid 564] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:15:32.074573 2020] [ssl:warn] [pid 7628:tid 580] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:15:32.121485 2020] [core:warn] [pid 7628:tid 580] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 03 10:15:32.121485 2020] [ssl:warn] [pid 7628:tid 580] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:15:48.152681 2020] [ssl:warn] [pid 4344:tid 564] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:15:48.183933 2020] [core:warn] [pid 4344:tid 564] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 03 10:15:48.199556 2020] [ssl:warn] [pid 4344:tid 564] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:15:57.371426 2020] [ssl:warn] [pid 6760:tid 512] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 10:15:57.418328 2020] [core:warn] [pid 6760:tid 512] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 03 10:15:57.418328 2020] [ssl:warn] [pid 6760:tid 512] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 11:52:28.262623 2020] [ssl:warn] [pid 5752:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 11:52:28.315670 2020] [core:warn] [pid 5752:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 03 11:52:28.321671 2020] [ssl:warn] [pid 5752:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 11:52:56.959614 2020] [ssl:warn] [pid 7500:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 11:52:57.000613 2020] [core:warn] [pid 7500:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 03 11:52:57.006612 2020] [ssl:warn] [pid 7500:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 11:53:31.533564 2020] [ssl:warn] [pid 5052:tid 552] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 03 11:53:31.575568 2020] [core:warn] [pid 5052:tid 552] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Dec 03 11:53:31.582547 2020] [ssl:warn] [pid 5052:tid 552] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:23:55.523654 2020] [ssl:warn] [pid 5440:tid 576] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:23:55.586126 2020] [core:warn] [pid 5440:tid 576] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 05 14:23:55.586126 2020] [ssl:warn] [pid 5440:tid 576] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:24:31.101645 2020] [ssl:warn] [pid 5612:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:24:31.148500 2020] [core:warn] [pid 5612:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 05 14:24:31.164147 2020] [ssl:warn] [pid 5612:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:24:47.117220 2020] [ssl:warn] [pid 8068:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:24:47.164097 2020] [core:warn] [pid 8068:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 05 14:24:47.164097 2020] [ssl:warn] [pid 8068:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:25:11.992154 2020] [ssl:warn] [pid 5720:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:25:12.039047 2020] [core:warn] [pid 5720:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 05 14:25:12.054654 2020] [ssl:warn] [pid 5720:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:37:02.896562 2020] [ssl:warn] [pid 3932:tid 488] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:37:02.959066 2020] [core:warn] [pid 3932:tid 488] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Sat Dec 05 14:37:02.959066 2020] [ssl:warn] [pid 3932:tid 488] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:37:02.990314 2020] [mpm_winnt:notice] [pid 3932:tid 488] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Sat Dec 05 14:37:02.990314 2020] [mpm_winnt:notice] [pid 3932:tid 488] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Sat Dec 05 14:37:02.990314 2020] [core:notice] [pid 3932:tid 488] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/OrangeHRM/apache2 -f C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\conf\\httpd.conf'
+[Sat Dec 05 14:37:03.005944 2020] [mpm_winnt:notice] [pid 3932:tid 488] AH00418: Parent: Created child process 3996
+[Sat Dec 05 14:37:03.318448 2020] [ssl:warn] [pid 3996:tid 484] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:37:03.365294 2020] [ssl:warn] [pid 3996:tid 484] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:37:03.396542 2020] [mpm_winnt:notice] [pid 3996:tid 484] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 10 12:33:02.743631 2020] [mpm_winnt:notice] [pid 3932:tid 488] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 10 12:33:04.798848 2020] [mpm_winnt:notice] [pid 3996:tid 484] AH00364: Child: All worker threads have exited.
+[Thu Dec 10 12:33:04.986359 2020] [mpm_winnt:notice] [pid 3932:tid 488] AH00430: Parent: Child process 3996 exited successfully.
+[Thu Dec 10 12:36:24.537734 2020] [ssl:warn] [pid 1648:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:24.950715 2020] [ssl:warn] [pid 1648:tid 556] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:25.451716 2020] [mpm_winnt:notice] [pid 1648:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Thu Dec 10 12:36:25.451716 2020] [mpm_winnt:notice] [pid 1648:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Dec 10 12:36:25.451716 2020] [core:notice] [pid 1648:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/OrangeHRM/apache2 -f C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\conf\\httpd.conf'
+[Thu Dec 10 12:36:25.454714 2020] [mpm_winnt:notice] [pid 1648:tid 556] AH00418: Parent: Created child process 3344
+[Thu Dec 10 12:36:26.418693 2020] [ssl:warn] [pid 3344:tid 484] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:26.609674 2020] [ssl:warn] [pid 3344:tid 484] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:26.636675 2020] [mpm_winnt:notice] [pid 3344:tid 484] AH00354: Child: Starting 64 worker threads.

@@ -1,0 +1,4 @@
+[03-Dec-2020 10:11:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function sendRegistrationData() in C:\xampp\htdocs\MIS\OrangeHRM\apps\orangehrm\htdocs\install.php:248
+Stack trace:
+#0 {main}
+  thrown in C:\xampp\htdocs\MIS\OrangeHRM\apps\orangehrm\htdocs\install.php on line 248

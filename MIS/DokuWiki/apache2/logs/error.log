@@ -1,0 +1,63 @@
+[Mon Nov 23 21:19:43.095015 2020] [ssl:warn] [pid 3956:tid 556] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 21:19:43.165015 2020] [ssl:warn] [pid 3956:tid 556] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 21:19:43.209015 2020] [mpm_winnt:notice] [pid 3956:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.3.23 configured -- resuming normal operations
+[Mon Nov 23 21:19:43.209015 2020] [mpm_winnt:notice] [pid 3956:tid 556] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 23 21:19:43.209015 2020] [core:notice] [pid 3956:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/DokuWiki/apache2 -f C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 21:19:43.212014 2020] [mpm_winnt:notice] [pid 3956:tid 556] AH00418: Parent: Created child process 184
+[Mon Nov 23 21:19:43.537016 2020] [ssl:warn] [pid 184:tid 492] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 21:19:43.578016 2020] [ssl:warn] [pid 184:tid 492] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 21:19:43.606015 2020] [mpm_winnt:notice] [pid 184:tid 492] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 21:19:47.609087 2020] [mpm_winnt:notice] [pid 3956:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 21:19:49.645181 2020] [mpm_winnt:notice] [pid 184:tid 492] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 21:19:49.671792 2020] [mpm_winnt:notice] [pid 3956:tid 556] AH00430: Parent: Child process 184 exited successfully.
+[Mon Nov 23 21:19:51.464774 2020] [ssl:warn] [pid 1396:tid 556] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 21:19:51.516748 2020] [ssl:warn] [pid 1396:tid 556] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 21:19:51.533748 2020] [mpm_winnt:notice] [pid 1396:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.3.23 configured -- resuming normal operations
+[Mon Nov 23 21:19:51.533748 2020] [mpm_winnt:notice] [pid 1396:tid 556] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Mon Nov 23 21:19:51.533748 2020] [core:notice] [pid 1396:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/DokuWiki/apache2 -f C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 21:19:51.535701 2020] [mpm_winnt:notice] [pid 1396:tid 556] AH00418: Parent: Created child process 1776
+[Mon Nov 23 21:19:51.861718 2020] [ssl:warn] [pid 1776:tid 484] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 21:19:51.895083 2020] [ssl:warn] [pid 1776:tid 484] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 21:19:51.910706 2020] [mpm_winnt:notice] [pid 1776:tid 484] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 26 11:39:31.410956 2020] [ssl:warn] [pid 8156:tid 560] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:39:31.455958 2020] [core:warn] [pid 8156:tid 560] AH00098: pid file C:/xampp/htdocs/MIS/DokuWiki/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 26 11:39:31.462954 2020] [ssl:warn] [pid 8156:tid 560] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:39:31.828956 2020] [mpm_winnt:notice] [pid 8156:tid 560] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.3.23 configured -- resuming normal operations
+[Thu Nov 26 11:39:31.828956 2020] [mpm_winnt:notice] [pid 8156:tid 560] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Thu Nov 26 11:39:31.828956 2020] [core:notice] [pid 8156:tid 560] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/DokuWiki/apache2 -f C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\conf\\httpd.conf'
+[Thu Nov 26 11:39:31.849925 2020] [mpm_winnt:notice] [pid 8156:tid 560] AH00418: Parent: Created child process 7664
+[Thu Nov 26 11:39:32.135921 2020] [ssl:warn] [pid 7664:tid 484] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:39:32.178928 2020] [ssl:warn] [pid 7664:tid 484] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:39:32.195925 2020] [mpm_winnt:notice] [pid 7664:tid 484] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 26 19:11:01.709988 2020] [ssl:warn] [pid 2016:tid 556] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:01.999989 2020] [core:warn] [pid 2016:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/DokuWiki/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 26 19:11:02.005990 2020] [ssl:warn] [pid 2016:tid 556] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:02.638216 2020] [mpm_winnt:notice] [pid 2016:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.3.23 configured -- resuming normal operations
+[Thu Nov 26 19:11:02.638216 2020] [mpm_winnt:notice] [pid 2016:tid 556] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Thu Nov 26 19:11:02.638216 2020] [core:notice] [pid 2016:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/DokuWiki/apache2 -f C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\conf\\httpd.conf'
+[Thu Nov 26 19:11:02.653845 2020] [mpm_winnt:notice] [pid 2016:tid 556] AH00418: Parent: Created child process 3048
+[Thu Nov 26 19:11:03.763198 2020] [ssl:warn] [pid 3048:tid 504] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:04.060076 2020] [ssl:warn] [pid 3048:tid 504] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:04.106949 2020] [mpm_winnt:notice] [pid 3048:tid 504] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 05 14:30:07.184097 2020] [mpm_winnt:notice] [pid 2016:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 05 14:30:09.187095 2020] [mpm_winnt:notice] [pid 3048:tid 504] AH00364: Child: All worker threads have exited.
+[Sat Dec 05 14:30:09.234087 2020] [mpm_winnt:notice] [pid 2016:tid 556] AH00430: Parent: Child process 3048 exited successfully.
+[Sat Dec 05 14:54:24.712587 2020] [ssl:warn] [pid 2956:tid 564] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:24.783590 2020] [ssl:warn] [pid 2956:tid 564] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:25.253210 2020] [mpm_winnt:notice] [pid 2956:tid 564] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.3.23 configured -- resuming normal operations
+[Sat Dec 05 14:54:25.253210 2020] [mpm_winnt:notice] [pid 2956:tid 564] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Sat Dec 05 14:54:25.253210 2020] [core:notice] [pid 2956:tid 564] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/DokuWiki/apache2 -f C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\conf\\httpd.conf'
+[Sat Dec 05 14:54:25.302535 2020] [mpm_winnt:notice] [pid 2956:tid 564] AH00418: Parent: Created child process 4264
+[Sat Dec 05 14:54:25.673584 2020] [ssl:warn] [pid 4264:tid 496] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:25.754587 2020] [ssl:warn] [pid 4264:tid 496] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:25.785589 2020] [mpm_winnt:notice] [pid 4264:tid 496] AH00354: Child: Starting 64 worker threads.
+[Thu Dec 10 12:33:02.734631 2020] [mpm_winnt:notice] [pid 2956:tid 564] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 10 12:33:04.767600 2020] [mpm_winnt:notice] [pid 4264:tid 496] AH00364: Child: All worker threads have exited.
+[Thu Dec 10 12:33:04.986359 2020] [mpm_winnt:notice] [pid 2956:tid 564] AH00430: Parent: Child process 4264 exited successfully.
+[Thu Dec 10 12:36:24.534734 2020] [ssl:warn] [pid 2016:tid 556] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:24.756714 2020] [ssl:warn] [pid 2016:tid 556] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:25.322717 2020] [mpm_winnt:notice] [pid 2016:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.3.23 configured -- resuming normal operations
+[Thu Dec 10 12:36:25.322717 2020] [mpm_winnt:notice] [pid 2016:tid 556] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Thu Dec 10 12:36:25.322717 2020] [core:notice] [pid 2016:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/DokuWiki/apache2 -f C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\conf\\httpd.conf'
+[Thu Dec 10 12:36:25.325715 2020] [mpm_winnt:notice] [pid 2016:tid 556] AH00418: Parent: Created child process 3316
+[Thu Dec 10 12:36:26.561675 2020] [ssl:warn] [pid 3316:tid 484] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name

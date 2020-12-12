@@ -1,0 +1,485 @@
+============ CHANGELOG =============
+
+Version 7.11.18-0      2020-11-06
+* Updated PHP to 7.3.24
+* Updated SuiteCRM to 7.11.18
+
+Version 7.11.17-0      2020-10-29
+* Updated SuiteCRM to 7.11.17
+
+Version 7.11.16-0      2020-10-29
+* Updated MySQL to 5.7.32
+* Updated phpMyAdmin to 5.0.4
+* Updated SuiteCRM to 7.11.16
+
+Version 7.11.15-3      2020-10-12
+* Maintenance release
+* Updated lego to 4.0.1
+* Updated OpenSSL to 1.1.1h
+* Updated PHP to 7.3.23
+* Updated phpMyAdmin to 5.0.3
+
+Version 7.11.15-2      2020-09-01
+* Maintenance release
+* Updated Apache to 2.4.46
+* Updated PHP to 7.3.21
+* Updated SQLite to 3.33.0
+
+Version 7.11.15-1      2020-07-22
+* Maintenance release
+* Updated lego to 3.8.0
+* Updated MySQL to 5.7.31
+* Updated PHP to 7.3.20
+* Updated SQLite to 3.32.3
+
+Version 7.11.15-0      2020-06-11
+* Updated SuiteCRM to 7.11.15
+
+Version 7.11.14-0      2020-06-11
+* Updated SQLite to 3.32.2
+* Updated SuiteCRM to 7.11.14
+
+Version 7.11.13-2      2020-06-02
+* Maintenance release
+* Updated lego to 3.7.0
+* Updated MySQL to 5.7.30
+* Updated PHP to 7.3.18
+* Updated SQLite to 3.32.1
+
+Version 7.11.13-1      2020-04-22
+* Fixed security vulnerability in OpenSSL CVE-2020-1967
+* Updated Apache to 2.4.43
+* Updated OpenSSL to 1.1.1g
+* Updated SQLite to 3.31.1
+
+Version 7.11.13-0      2020-03-25
+* Updated lego to 3.5.0
+* Updated OpenSSL to 1.1.1e
+* Updated PHP to 7.3.16
+* Updated phpMyAdmin to 5.0.2
+* Updated SuiteCRM to 7.11.13
+
+Version 7.11.12-0      2020-02-17
+* Updated SuiteCRM to 7.11.12
+
+Version 7.11.11-0      2020-02-12
+* Updated PHP to 7.3.14
+* Updated SQLite to 3.31.1.
+* Updated SuiteCRM to 7.11.11
+
+Version 7.11.10-2      2020-01-22
+* Maintenance release
+* Updated lego to 3.3.0
+* Updated MySQL to 5.7.29
+* Updated phpMyAdmin to 5.0.1
+* Updated SQLite to 3.30.1
+
+Version 7.11.10-1      2019-12-24
+* Maintenance release
+* Updated PHP to 7.3.13
+* Updated phpMyAdmin to 4.9.2
+
+Version 7.11.10-0      2019-11-13
+* Updated lego to 3.2.0
+* Updated SuiteCRM to 7.11.10
+
+Version 7.11.9-0      2019-11-04
+* Updated lego to 3.1.0
+* Updated MySQL to 5.7.28
+* Updated PHP to 7.3.11
+* Updated SQLite to 3.30.1.
+* Updated SuiteCRM to 7.11.9
+
+Version 7.11.8-1      2019-10-07
+* Maintenance release
+* Updated OpenSSL to 1.1.1d
+* Updated PHP to 7.3.10
+* Updated phpMyAdmin to 4.9.1
+
+Version 7.11.8-0      2019-08-26
+* Updated Apache to 2.4.41
+* Updated lego to 3.0.2
+* Updated PHP to 7.3.8
+* Updated SuiteCRM to 7.11.8
+
+Version 7.11.7-0      2019-07-31
+* Updated lego to 2.7.1
+* Updated MySQL to 5.7.27
+* Updated PHP to 7.3.7
+* Updated SuiteCRM to 7.11.7
+
+Version 7.11.6-2      2019-07-15
+* Maintenance release
+* Updated SQLite to 3.29.0.
+
+Version 7.11.6-0      2019-07-03
+* Updated SuiteCRM to 7.11.6
+
+Version 7.11.5-1      2019-06-18
+* Fixed issue on Windows 10 build 1903
+* Updated phpMyAdmin to 4.9.0.1
+
+Version 7.11.5-0      2019-06-04
+* Add Bitnami HTTPS Configuration Tool (bncert)
+* Updated lego to 2.6.0
+* Updated OpenSSL to 1.0.2s
+* Updated PHP to 7.1.30
+* Updated SuiteCRM to 7.11.5
+
+Version 7.11.4-0      2019-04-30
+* Updated lego to 2.5.0
+* Updated MySQL to 5.7.26
+* Updated PHP to 7.1.28
+* Updated SQLite to 3.28.0
+* Updated SuiteCRM to 7.11.4
+
+Version 7.11.3-1      2019-04-09
+* Fix Apache Carpe Diem vulnerability CVE-2019-0211
+* Updated Apache to 2.4.39
+* Updated lego to 2.4.0
+
+Version 7.11.3-0      2019-03-28
+* Updated lego to 2.3.0
+* Updated PHP to 7.1.27
+* Updated SuiteCRM to 7.11.3
+
+Version 7.11.2-1      2019-03-09
+* Maintenance release
+* Updated OpenSSL to 1.0.2r
+* Updated SQLite to 3.27.2
+
+Version 7.11.2-0      2019-02-21
+* Updated lego to 2.2.0
+* Updated SQLite to 3.27.1
+* Updated SuiteCRM to 7.11.2
+
+Version 7.11.1-0      2019-02-01
+* Updated Apache to 2.4.38
+* Updated lego to 2.1.0
+* Updated MySQL to 5.7.25
+* Updated PHP to 7.1.26
+* Updated phpMyAdmin to 4.8.5
+* Updated SuiteCRM to 7.11.1
+
+Version 7.11.0-0      2019-01-16
+* Updated PHP to 7.1.25
+* Updated phpMyAdmin to 4.8.4
+* Updated SQLite to 3.26.0
+* Updated SuiteCRM to 7.11.0
+
+Version 7.10.11-0      2018-12-06
+* Updated SuiteCRM to 7.10.11
+
+Version 7.10.10-1      2018-12-02
+* Updated Apache to 2.4.37
+* Updated lego to 1.2.1
+* Updated MySQL to 5.7.24
+* Updated OpenSSL to 1.0.2q
+* Updated PHP to 7.1.24
+
+Version 7.11-beta-0      2018-11-20
+* Updated Apache to 2.4.37
+* Updated lego to 1.2.1
+* Updated MySQL to 5.7.24
+* Updated PHP to 7.1.24
+* Updated SuiteCRM to 7.11-beta
+
+Version 7.10.10-0      2018-10-24
+* Fixed SpectreRSB Vulnerability (CVE-2018-15572)
+* Updated Apache to 2.4.35
+* Updated lego to 1.1.0
+* Updated PHP to 7.1.23
+* Updated SuiteCRM to 7.10.10
+
+Version 7.10.9-0      2018-09-18
+* Updated PHP to 7.0.32
+* Updated SuiteCRM to 7.10.9
+
+Version 7.10.8-0      2018-09-13
+* Added Lego tool for configuring Let's encrypt with Apache
+* Updated phpMyAdmin to 4.8.3
+* Updated SuiteCRM to 7.10.8
+* Updated lego to 1.0.1
+
+Version 7.10.7-1      2018-08-22
+* Updated Apache to 2.4.34
+* Updated MySQL to 5.7.23
+* Updated OpenSSL to 1.0.2p
+* Updated PHP to 7.0.31
+* Updated phpMyAdmin to 4.8.2
+
+Version 7.10.7-0      2018-06-18
+* Updated SuiteCRM to 7.10.7
+
+Version 7.10.6-0      2018-06-07
+* Updated PageSpeed to 1.13.35.2
+* Updated phpMyAdmin to 4.8.1
+* Updated SuiteCRM to 7.10.6
+
+Version 7.10.5-0      2018-05-21
+* Updated MySQL to 5.7.22
+* Updated PHP to 7.0.30
+* Updated phpMyAdmin to 4.8.0.1
+* Updated SQLite to 3.18.0
+* Updated SuiteCRM to 7.10.5
+
+Version 7.10.4-0      2018-04-10
+* Updated PHP to 7.0.29
+* Updated phpMyAdmin to 4.8.0
+* Updated SuiteCRM to 7.10.4
+
+Version 7.10.3-0      2018-04-03
+* Updated Apache to 2.4.33
+* Updated OpenSSL to 1.0.2o
+* Updated SuiteCRM to 7.10.3
+
+Version 7.10.2-1      2018-03-18
+* Added support for OS X VM
+
+Version 7.10.2-0      2018-03-16
+* Updated PHP to 7.0.28
+* Updated SuiteCRM to 7.10.2
+
+Version 7.10.1-0      2018-03-05
+* Updated phpMyAdmin to 4.7.9
+* Updated SuiteCRM to 7.10.1
+
+Version 7.10.0-0      2018-03-03
+* Updated phpMyAdmin to 4.7.8
+* Updated SuiteCRM to 7.10.0
+
+Version 7.9.14-0      2018-02-19
+* Generate the SSL certificates at installation time
+(boot time in the cloud images and virtual machines)
+* Updated SuiteCRM to 7.9.14
+
+Version 7.9.9-0      2018-01-18
+* Updated MySQL to 5.7.21
+* Updated PHP to 7.0.27
+* Updated phpMyAdmin to 4.7.7
+* Updated SuiteCRM to 7.9.9
+
+Version 7.9.8-0      2017-12-20
+* Add bnsupport tool
+* Updated Apache to 2.4.29
+* Updated MySQL to 5.7.20
+* Updated OpenSSL to 1.0.2n
+* Updated PHP to 7.0.26
+* Updated phpMyAdmin to 4.7.6
+* Updated SuiteCRM to 7.9.8
+
+Version 7.9.7-0      2017-10-24
+* Updated Apache to 2.4.28
+* Updated OpenSSL to 1.0.2l
+* Updated PHP to 7.0.24
+* Updated SuiteCRM to 7.9.7
+
+Version 7.9.6-0      2017-10-09
+* Updated SuiteCRM to 7.9.6
+
+Version 7.9.5-0      2017-09-12
+* Updated MySQL to 5.7.19
+* Updated PHP to 7.0.23
+* Updated phpMyAdmin to 4.7.4
+* Updated SuiteCRM to 7.9.5
+
+Version 7.9.4-1      2017-08-24
+* Updated PHP to 7.0.22
+* Updated phpMyAdmin to 4.7.3
+
+Version 7.9.4-0      2017-08-14
+* Updated MySQL to 5.6.37
+* Updated SuiteCRM to 7.9.4
+
+Version 7.9.3-0      2017-07-18
+* Updated phpMyAdmin to 4.7.2
+* Updated Apache to 2.4.27
+* Updated PHP to 5.6.31
+* Updated SuiteCRM to 7.9.3
+
+Version 7.9.2-0      2017-07-04
+* Updated Apache to 2.4.26
+* Updated SuiteCRM to 7.9.2
+* Updated phpMyAdmin to 4.7.1
+* Fix sudo vulnerability (CVE-2017-1000367)
+
+Version 7.8.3-2      2017-06-01
+* Updated OpenSSL to 1.0.2l
+
+Version 7.8.3-1      2017-05-18
+* Updated MySQL to 5.6.36
+
+Version 7.8.3-0      2017-04-11
+* Updated SuiteCRM to 7.8.3
+* Updated phpMyAdmin to 4.7.0
+
+Version 7.8.2-0      2017-02-28
+* Updated SuiteCRM to 7.8.2
+* Updated phpMyAdmin to 4.6.6
+
+Version 7.8.1-0      2017-02-07
+* Updated SuiteCRM to 7.8.1
+* Updated OpenSSL to 1.0.2k (Security fixes for CVE-2017-3731, CVE-2017-3731, CVE-2017-3731, and CVE-2016-7055)
+* Updated PHP to 5.6.30
+
+Version 7.7.9-1      2017-01-18
+* Fixed issue in OS X
+
+Version 7.7.9-0      2017-01-03
+* Updated SuiteCRM to 7.7.9
+* Updated Apache to 2.4.25
+* Updated MySQL to 5.6.35
+* Updated PHP to 5.6.29
+* Updated phpMyAdmin to 4.6.5.2
+
+Version 7.7.8-0      2016-11-21
+* Updated SuiteCRM to 7.7.8
+* Updated PHP to 5.6.28
+
+Version 7.7.7-0      2016-11-11
+* Updated SuiteCRM to 7.7.7
+
+Version 7.7.6-0      2016-10-20
+* Updated SuiteCRM to 7.7.6
+* Updated PHP to 5.6.27
+* Updated MySQL to 5.6.34
+
+Version 7.7.5-0      2016-09-29
+* Updated SuiteCRM to 7.7.5
+
+Version 7.7.4-1      2016-09-27
+* Updated OpenSSL to 1.0.2j (Security fix CVE-2016-6304)
+* Updated MySQL to 5.6.33
+* Updated PHP to 5.6.26
+
+Version 7.7.4-0      2016-09-02
+* Updated SuiteCRM to 7.7.4
+
+Version 7.7.3-0      2016-08-30
+* Updated SuiteCRM to 7.7.3
+
+Version 7.7.2-0      2016-08-24
+* Updated SuiteCRM to 7.7.2
+* Updated phpMyAdmin to 4.6.4
+* Updated PHP to 5.6.25
+* Patched Off-Path TCP Linux Kernel Vulnerability in Cloud Images and Virtual Machines (Security release CVE-2016-5696)
+
+Version 7.7.1-0      2016-08-12
+* Updated SuiteCRM to 7.7.1
+
+Version 7.7-0      2016-08-03
+* Updated SuiteCRM to 7.7.0
+* Updated MySQL to 5.6.32
+* Updated PHP to 5.6.24 (Security release: HTTP_PROXY is improperly trusted by some PHP libraries and applications)
+* Blocked Proxy request header in the web server (Security issue CVE-2016-5385, CVE-2016-5387, CVE-2016-1000110)
+
+Version 7.6.6-0      2016-07-21
+* Updated SuiteCRM to 7.6.6
+* Blocked Proxy request header in the web server (Security issue CVE-2016-5385, CVE-2016-5387, CVE-2016-1000110)
+* Updated Apache to 2.4.23
+
+Version 7.6.5-0      2016-07-06
+* Updated SuiteCRM to 7.6.5
+* Updated phpMyAdmin to 4.6.3
+* Updated PHP to 5.6.23
+* Updated MySQL to 5.6.31
+
+Version 7.6.4-0      2016-05-31
+* Updated SuiteCRM to 7.6.4
+* Updated phpMyAdmin to 4.6.2
+* Updated PHP to 5.6.22 (Security release CVE-2016-5096, CVE-2016-5094, CVE-2013-7456, CVE-2016-5093)
+
+Version 7.6.3-0      2016-05-18
+* Updated SuiteCRM to 7.6.3
+
+Version 7.6.2-0      2016-05-11
+* Updated SuiteCRM to 7.6.2
+* Updated phpMyAdmin to 4.6.1
+* Updated PHP to 5.6.21 (Security release CVE-2016-3074)
+* Updated OpenSSL to 1.0.2h (Security release CVE-2016-2108 CVE-2016-2107)
+
+Version 7.6.1-0      2016-05-03
+* Updated SuiteCRM to 7.6.1
+
+Version 7.6-0      2016-04-28
+* Updated SuiteCRM to 7.6.0
+* Updated PageSpeed to 1.9.32.14
+* Updated PHP to 5.6.20
+* Updated MySQL to 5.6.30
+* Updated Apache to 2.4.20
+* Updated phpMyAdmin to 4.6.0
+
+Version 7.5.3-0      2016-03-22
+* Updated SuiteCRM to 7.5.3
+* Updated phpMyAdmin to 4.5.5.1
+* Updated PHP to 5.6.19
+* Updated OpenSSL to 1.0.2g (Security release CVE-2016-0800)
+* Updated MySQL to 5.6.29
+* Updated libpng to 1.5.26 (Security release CVE-2015-8540)
+
+Version 7.4.3-0      2015-12-28
+* Updated Apache to 2.4.18
+* Updated MySQL to 5.6.28
+* Updated OpenSSL to 1.0.1q
+* Updated phpMyAdmin to 4.5.2
+
+Version 7.3.2-1      2015-11-17
+* Updated libpng to 1.5.24 (security issue)
+
+Version 7.3.2-0      2015-10-23
+* Updated SuiteCRM to 7.3.2
+* Updated MySQL to 5.6.27
+* Updated Apache to 2.4.17
+
+Version 7.3.1-0      2015-09-29
+* Updated PHP to 5.5.29
+* Updated SuiteCRM to 7.3.1
+
+Version 7.3-0      2015-08-17
+* Updated SuiteCRM to 7.3
+* Updated phpMyAdmin to 4.4.13.1
+* Updated Apache to 2.4.16
+* Updated PHP to 5.5.28
+* Updated OpenSSL to 1.0.1p
+* Updated MySQL to 5.6.25
+* Dropping RC4 from Apache SSLCipherSuite directive
+
+Version 7.2-0      2015-03-18
+* Updated SuiteCRM to 7.2
+* Updated OpenSSL to 1.0.1l
+* Updated PHP to 5.4.38
+* Updated Apache to 2.4.12
+* Updated MySQL to 5.5.42 for Linux and Windows
+* Updated PageSpeed to 1.9.32.3
+* Updated phpMyAdmin to 4.3.7
+
+Version 7.1.5-0      2015-01-27
+* Updated SuiteCRM to 7.1.5
+
+Version 7.1.4-2      2015-01-14
+* Fix upload image issue and increase PHP memory settings
+* Updated OpenSSL to 1.0.1k (Linux and OS X)
+* Updated phpMyAdmin to 4.3.3
+* Updated PHP to 5.4.36
+
+Version 7.1.4-1      2014-12-22
+* Added improvements in installer
+* Updated PHP to 5.4.35
+* Updated phpMyAdmin to 4.2.12
+
+Version 7.1.4-0      2014-10-22
+* (Version only available for OS X)
+* Fix MySQL startup issue for OS X Yosemite
+* Updated OpenSSL to 1.0.1j
+
+Version 7.1.4-0      2014-10-16
+* Updated SuiteCRM to 7.1.4
+* Added OCI8 module. It requires InstantClient 11.2.
+* Updated phpMyAdmin to 4.2.9.1
+* Updated MySQL to 5.5.40
+* Updated PHP to 5.4.33
+* Updated OpenSSL to 1.0.1i
+
+Version 7.1.2-0      2014-07-28
+* First release, bundling SuiteCRM 7.1.2, Apache 2.4.10,
+MySQL 5.5.38 and PHP 5.4.31

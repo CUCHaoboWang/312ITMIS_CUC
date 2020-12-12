@@ -1,0 +1,123 @@
+[Mon Nov 23 19:35:30.522183 2020] [ssl:warn] [pid 2460:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:35:30.575133 2020] [ssl:warn] [pid 2460:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:35:30.709665 2020] [mpm_winnt:notice] [pid 2460:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Mon Nov 23 19:35:30.709665 2020] [mpm_winnt:notice] [pid 2460:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Mon Nov 23 19:35:30.709665 2020] [core:notice] [pid 2460:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 19:35:30.725290 2020] [mpm_winnt:notice] [pid 2460:tid 556] AH00418: Parent: Created child process 4624
+[Mon Nov 23 19:35:30.990921 2020] [ssl:warn] [pid 4624:tid 500] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:35:31.037790 2020] [ssl:warn] [pid 4624:tid 500] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:35:31.053416 2020] [mpm_winnt:notice] [pid 4624:tid 500] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 19:39:27.723368 2020] [mpm_winnt:notice] [pid 2460:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 19:39:29.726312 2020] [mpm_winnt:notice] [pid 4624:tid 500] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 19:39:29.772260 2020] [mpm_winnt:notice] [pid 2460:tid 556] AH00430: Parent: Child process 4624 exited successfully.
+[Mon Nov 23 19:39:31.605237 2020] [ssl:warn] [pid 3224:tid 544] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:39:31.650234 2020] [ssl:warn] [pid 3224:tid 544] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:39:31.672236 2020] [mpm_winnt:notice] [pid 3224:tid 544] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Mon Nov 23 19:39:31.672236 2020] [mpm_winnt:notice] [pid 3224:tid 544] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Mon Nov 23 19:39:31.672236 2020] [core:notice] [pid 3224:tid 544] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 19:39:31.674237 2020] [mpm_winnt:notice] [pid 3224:tid 544] AH00418: Parent: Created child process 2640
+[Mon Nov 23 19:39:31.953238 2020] [ssl:warn] [pid 2640:tid 480] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:39:31.992236 2020] [ssl:warn] [pid 2640:tid 480] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:39:32.007237 2020] [mpm_winnt:notice] [pid 2640:tid 480] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 19:43:07.038708 2020] [mpm_winnt:notice] [pid 3224:tid 544] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 19:43:09.069934 2020] [mpm_winnt:notice] [pid 2640:tid 480] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 19:43:09.085547 2020] [mpm_winnt:notice] [pid 3224:tid 544] AH00430: Parent: Child process 2640 exited successfully.
+[Mon Nov 23 19:43:11.132325 2020] [ssl:warn] [pid 1300:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:43:11.194827 2020] [ssl:warn] [pid 1300:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:43:11.210450 2020] [mpm_winnt:notice] [pid 1300:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Mon Nov 23 19:43:11.210450 2020] [mpm_winnt:notice] [pid 1300:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Mon Nov 23 19:43:11.210450 2020] [core:notice] [pid 1300:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 19:43:11.210450 2020] [mpm_winnt:notice] [pid 1300:tid 556] AH00418: Parent: Created child process 2008
+[Mon Nov 23 19:43:11.507292 2020] [ssl:warn] [pid 2008:tid 496] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:43:11.554194 2020] [ssl:warn] [pid 2008:tid 496] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:43:11.569792 2020] [mpm_winnt:notice] [pid 2008:tid 496] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 19:43:30.584810 2020] [mpm_winnt:notice] [pid 1300:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 19:43:32.616000 2020] [mpm_winnt:notice] [pid 2008:tid 496] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 19:43:32.631624 2020] [mpm_winnt:notice] [pid 1300:tid 556] AH00430: Parent: Child process 2008 exited successfully.
+[Mon Nov 23 19:43:33.928459 2020] [ssl:warn] [pid 3320:tid 612] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:43:33.990960 2020] [ssl:warn] [pid 3320:tid 612] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:43:34.006589 2020] [mpm_winnt:notice] [pid 3320:tid 612] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Mon Nov 23 19:43:34.006589 2020] [mpm_winnt:notice] [pid 3320:tid 612] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Mon Nov 23 19:43:34.006589 2020] [core:notice] [pid 3320:tid 612] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 19:43:34.006589 2020] [mpm_winnt:notice] [pid 3320:tid 612] AH00418: Parent: Created child process 4060
+[Mon Nov 23 19:43:34.287806 2020] [ssl:warn] [pid 4060:tid 480] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:43:34.334678 2020] [ssl:warn] [pid 4060:tid 480] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:43:34.350306 2020] [mpm_winnt:notice] [pid 4060:tid 480] AH00354: Child: Starting 64 worker threads.
+[Mon Nov 23 19:44:03.724346 2020] [mpm_winnt:notice] [pid 3320:tid 612] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 23 19:44:05.755556 2020] [mpm_winnt:notice] [pid 4060:tid 480] AH00364: Child: All worker threads have exited.
+[Mon Nov 23 19:44:05.818054 2020] [mpm_winnt:notice] [pid 3320:tid 612] AH00430: Parent: Child process 4060 exited successfully.
+[Mon Nov 23 19:44:07.661740 2020] [ssl:warn] [pid 4768:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:44:07.708613 2020] [ssl:warn] [pid 4768:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:44:07.724240 2020] [mpm_winnt:notice] [pid 4768:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Mon Nov 23 19:44:07.724240 2020] [mpm_winnt:notice] [pid 4768:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Mon Nov 23 19:44:07.724240 2020] [core:notice] [pid 4768:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Mon Nov 23 19:44:07.724240 2020] [mpm_winnt:notice] [pid 4768:tid 556] AH00418: Parent: Created child process 852
+[Mon Nov 23 19:44:08.036711 2020] [ssl:warn] [pid 852:tid 516] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:44:08.099237 2020] [ssl:warn] [pid 852:tid 516] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Mon Nov 23 19:44:08.114864 2020] [mpm_winnt:notice] [pid 852:tid 516] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 26 11:38:20.175274 2020] [ssl:warn] [pid 5028:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:38:20.256270 2020] [core:warn] [pid 5028:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/Redmine/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 26 11:38:20.263261 2020] [ssl:warn] [pid 5028:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:38:20.728272 2020] [mpm_winnt:notice] [pid 5028:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Thu Nov 26 11:38:20.728272 2020] [mpm_winnt:notice] [pid 5028:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Nov 26 11:38:20.728272 2020] [core:notice] [pid 5028:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Thu Nov 26 11:38:20.731270 2020] [mpm_winnt:notice] [pid 5028:tid 556] AH00418: Parent: Created child process 5868
+[Thu Nov 26 11:38:21.052243 2020] [ssl:warn] [pid 5868:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:38:21.098240 2020] [ssl:warn] [pid 5868:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 11:38:21.136236 2020] [mpm_winnt:notice] [pid 5868:tid 484] AH00354: Child: Starting 64 worker threads.
+[Thu Nov 26 19:11:01.948989 2020] [ssl:warn] [pid 1372:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:02.047991 2020] [core:warn] [pid 1372:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/Redmine/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Thu Nov 26 19:11:02.055989 2020] [ssl:warn] [pid 1372:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:02.638216 2020] [mpm_winnt:notice] [pid 1372:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Thu Nov 26 19:11:02.638216 2020] [mpm_winnt:notice] [pid 1372:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Nov 26 19:11:02.638216 2020] [core:notice] [pid 1372:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Thu Nov 26 19:11:02.638216 2020] [mpm_winnt:notice] [pid 1372:tid 556] AH00418: Parent: Created child process 3040
+[Thu Nov 26 19:11:03.747575 2020] [ssl:warn] [pid 3040:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:03.981949 2020] [ssl:warn] [pid 3040:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Nov 26 19:11:03.997575 2020] [mpm_winnt:notice] [pid 3040:tid 484] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 05 14:30:26.687052 2020] [mpm_winnt:notice] [pid 1372:tid 556] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Sat Dec 05 14:30:28.690071 2020] [mpm_winnt:notice] [pid 3040:tid 484] AH00364: Child: All worker threads have exited.
+[Sat Dec 05 14:30:28.730044 2020] [mpm_winnt:notice] [pid 1372:tid 556] AH00430: Parent: Child process 3040 exited successfully.
+[Sat Dec 05 14:54:19.630607 2020] [ssl:warn] [pid 3656:tid 552] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:19.690603 2020] [ssl:warn] [pid 3656:tid 552] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:19.988617 2020] [mpm_winnt:notice] [pid 3656:tid 552] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Sat Dec 05 14:54:19.988617 2020] [mpm_winnt:notice] [pid 3656:tid 552] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Sat Dec 05 14:54:19.988617 2020] [core:notice] [pid 3656:tid 552] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Sat Dec 05 14:54:19.991578 2020] [mpm_winnt:notice] [pid 3656:tid 552] AH00418: Parent: Created child process 7832
+[Sat Dec 05 14:54:20.299587 2020] [ssl:warn] [pid 7832:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:20.349587 2020] [ssl:warn] [pid 7832:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Sat Dec 05 14:54:20.369590 2020] [mpm_winnt:notice] [pid 7832:tid 484] AH00354: Child: Starting 64 worker threads.
+[Sat Dec 05 14:54:50.742500 2020] [proxy:error] [pid 7832:tid 1180] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:3001 (127.0.0.1) failed
+[Sat Dec 05 14:54:50.742500 2020] [proxy:error] [pid 7832:tid 1180] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 60s
+[Sat Dec 05 14:54:50.742500 2020] [proxy_http:error] [pid 7832:tid 1180] [client ::1:57701] AH01114: HTTP: failed to make connection to backend: 127.0.0.1, referer: http://localhost/
+[Sat Dec 05 14:54:51.747496 2020] [proxy:error] [pid 7832:tid 1180] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:3002 (127.0.0.1) failed
+[Sat Dec 05 14:54:51.747496 2020] [proxy:error] [pid 7832:tid 1180] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 60s
+[Sat Dec 05 14:54:51.747496 2020] [proxy_http:error] [pid 7832:tid 1180] [client ::1:57701] AH01114: HTTP: failed to make connection to backend: 127.0.0.1, referer: http://localhost/
+[Sat Dec 05 14:54:52.842496 2020] [proxy:error] [pid 7832:tid 1180] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:3002 (127.0.0.1) failed
+[Sat Dec 05 14:54:52.842496 2020] [proxy:error] [pid 7832:tid 1180] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 60s
+[Sat Dec 05 14:54:52.842496 2020] [proxy_http:error] [pid 7832:tid 1180] [client ::1:57701] AH01114: HTTP: failed to make connection to backend: 127.0.0.1, referer: http://localhost/
+[Sat Dec 05 14:54:53.956500 2020] [proxy:error] [pid 7832:tid 1180] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:3001 (127.0.0.1) failed
+[Sat Dec 05 14:54:53.956500 2020] [proxy:error] [pid 7832:tid 1180] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 60s
+[Sat Dec 05 14:54:53.956500 2020] [proxy_http:error] [pid 7832:tid 1180] [client ::1:57701] AH01114: HTTP: failed to make connection to backend: 127.0.0.1, referer: http://localhost/
+[Sat Dec 05 14:54:55.253470 2020] [proxy:error] [pid 7832:tid 1184] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:3001 (127.0.0.1) failed
+[Sat Dec 05 14:54:55.253470 2020] [proxy:error] [pid 7832:tid 1184] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 60s
+[Sat Dec 05 14:54:55.253470 2020] [proxy_http:error] [pid 7832:tid 1184] [client ::1:57700] AH01114: HTTP: failed to make connection to backend: 127.0.0.1, referer: http://localhost:81/
+[Sat Dec 05 14:54:56.342467 2020] [proxy:error] [pid 7832:tid 1184] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:3002 (127.0.0.1) failed
+[Sat Dec 05 14:54:56.342467 2020] [proxy:error] [pid 7832:tid 1184] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 60s
+[Sat Dec 05 14:54:56.342467 2020] [proxy_http:error] [pid 7832:tid 1184] [client ::1:57700] AH01114: HTTP: failed to make connection to backend: 127.0.0.1, referer: http://localhost:81/
+[Sat Dec 05 14:54:57.354466 2020] [proxy:error] [pid 7832:tid 1184] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:3002 (127.0.0.1) failed
+[Sat Dec 05 14:54:57.354466 2020] [proxy:error] [pid 7832:tid 1184] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 60s
+[Sat Dec 05 14:54:57.354466 2020] [proxy_http:error] [pid 7832:tid 1184] [client ::1:57700] AH01114: HTTP: failed to make connection to backend: 127.0.0.1, referer: http://localhost:81/
+[Sat Dec 05 14:54:58.447465 2020] [proxy:error] [pid 7832:tid 1184] (OS 10061)No connection could be made because the target machine actively refused it.  : AH00957: HTTP: attempt to connect to 127.0.0.1:3001 (127.0.0.1) failed
+[Sat Dec 05 14:54:58.447465 2020] [proxy:error] [pid 7832:tid 1184] AH00959: ap_proxy_connect_backend disabling worker for (127.0.0.1) for 60s
+[Sat Dec 05 14:54:58.447465 2020] [proxy_http:error] [pid 7832:tid 1184] [client ::1:57700] AH01114: HTTP: failed to make connection to backend: 127.0.0.1, referer: http://localhost:81/
+[Thu Dec 10 12:33:02.724632 2020] [mpm_winnt:notice] [pid 3656:tid 552] AH00422: Parent: Received shutdown signal -- Shutting down the server.
+[Thu Dec 10 12:33:04.752016 2020] [mpm_winnt:notice] [pid 7832:tid 484] AH00364: Child: All worker threads have exited.
+[Thu Dec 10 12:33:04.798848 2020] [mpm_winnt:notice] [pid 3656:tid 552] AH00430: Parent: Child process 7832 exited successfully.
+[Thu Dec 10 12:36:24.793714 2020] [ssl:warn] [pid 2088:tid 588] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:25.145720 2020] [ssl:warn] [pid 2088:tid 588] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:27.174677 2020] [mpm_winnt:notice] [pid 2088:tid 588] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Thu Dec 10 12:36:27.175676 2020] [mpm_winnt:notice] [pid 2088:tid 588] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Thu Dec 10 12:36:27.175676 2020] [core:notice] [pid 2088:tid 588] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Thu Dec 10 12:36:27.177677 2020] [mpm_winnt:notice] [pid 2088:tid 588] AH00418: Parent: Created child process 4016
+[Thu Dec 10 12:36:28.510657 2020] [ssl:warn] [pid 4016:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name

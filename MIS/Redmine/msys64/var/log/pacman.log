@@ -1,0 +1,311 @@
+[2018-12-11 12:04] [PACMAN] Running 'pacman -Syu --root /tmp/newmsys/msys64'
+[2018-12-11 12:04] [PACMAN] synchronizing package lists
+[2018-12-11 12:04] [PACMAN] starting core system upgrade
+[2018-12-11 12:04] [PACMAN] starting full system upgrade
+[2018-12-11 12:04] [PACMAN] Running 'pacman -S --noconfirm --root /tmp/newmsys/msys64 base'
+[2018-12-11 12:05] [ALPM] transaction started
+[2018-12-11 12:05] [ALPM] installed msys2-runtime (2.11.2-1)
+[2018-12-11 12:05] [ALPM] installed bash (4.4.023-1)
+[2018-12-11 12:05] [ALPM] installed bash-completion (2.8-2)
+[2018-12-11 12:05] [ALPM] installed gcc-libs (7.3.0-3)
+[2018-12-11 12:05] [ALPM] installed libbz2 (1.0.6-2)
+[2018-12-11 12:05] [ALPM] installed libiconv (1.15-1)
+[2018-12-11 12:05] [ALPM] installed libexpat (2.2.6-1)
+[2018-12-11 12:05] [ALPM] installed libintl (0.19.8.1-1)
+[2018-12-11 12:05] [ALPM] installed libgettextpo (0.19.8.1-1)
+[2018-12-11 12:05] [ALPM] installed libasprintf (0.19.8.1-1)
+[2018-12-11 12:05] [ALPM] installed gettext (0.19.8.1-1)
+[2018-12-11 12:05] [ALPM] installed liblzma (5.2.4-1)
+[2018-12-11 12:05] [ALPM] installed liblz4 (1.8.3-1)
+[2018-12-11 12:05] [ALPM] installed liblzo2 (2.10-2)
+[2018-12-11 12:05] [ALPM] installed gmp (6.1.2-1)
+[2018-12-11 12:05] [ALPM] installed libhogweed (3.4.1-1)
+[2018-12-11 12:05] [ALPM] installed libnettle (3.4.1-1)
+[2018-12-11 12:05] [ALPM] installed coreutils (8.30-1)
+[2018-12-11 12:05] [ALPM] installed icu (62.1-1)
+[2018-12-11 12:05] [ALPM] installed ncurses (6.1.20180908-1)
+[2018-12-11 12:05] [ALPM] installed libreadline (7.0.005-1)
+[2018-12-11 12:05] [ALPM] installed zlib (1.2.11-1)
+[2018-12-11 12:05] [ALPM] installed libxml2 (2.9.8-1)
+[2018-12-11 12:05] [ALPM] installed bsdcpio (3.3.3-3)
+[2018-12-11 12:05] [ALPM] installed bsdtar (3.3.3-3)
+[2018-12-11 12:05] [ALPM] installed bzip2 (1.0.6-2)
+[2018-12-11 12:05] [ALPM] installed libopenssl (1.0.2.p-2)
+[2018-12-11 12:05] [ALPM] installed openssl (1.0.2.p-2)
+[2018-12-11 12:05] [ALPM] installed findutils (4.6.0-1)
+[2018-12-11 12:05] [ALPM] installed sed (4.5-1)
+[2018-12-11 12:05] [ALPM] installed libffi (3.2.1-3)
+[2018-12-11 12:05] [ALPM] installed libpcre (8.42-1)
+[2018-12-11 12:05] [ALPM] installed less (530-1)
+[2018-12-11 12:05] [ALPM] installed gzip (1.9-1)
+[2018-12-11 12:05] [ALPM] installed libcrypt (2.1-2)
+[2018-12-11 12:05] [ALPM] installed info (6.5-2)
+[2018-12-11 12:05] [ALPM] installed libtasn1 (4.13-1)
+[2018-12-11 12:05] [ALPM] installed libgpg-error (1.33-1)
+[2018-12-11 12:05] [ALPM] installed libgcrypt (1.8.4-1)
+[2018-12-11 12:05] [ALPM] installed libxslt (1.1.32-1)
+[2018-12-11 12:05] [ALPM] installed glib2 (2.54.3-1)
+[2018-12-11 12:05] [ALPM] installed libp11-kit (0.23.14-1)
+[2018-12-11 12:05] [ALPM] installed p11-kit (0.23.14-1)
+[2018-12-11 12:05] [ALPM] installed ca-certificates (20180409-1)
+[2018-12-11 12:05] [ALPM] installed brotli (1.0.7-1)
+[2018-12-11 12:05] [ALPM] installed libdb (5.3.28-2)
+[2018-12-11 12:05] [ALPM] installed libedit (3.1-20170329)
+[2018-12-11 12:05] [ALPM] installed libsqlite (3.21.0-4)
+[2018-12-11 12:05] [ALPM] installed heimdal-libs (7.5.0-2)
+[2018-12-11 12:05] [ALPM] installed libunistring (0.9.10-1)
+[2018-12-11 12:05] [ALPM] installed libidn2 (2.0.5-1)
+[2018-12-11 12:05] [ALPM] installed libmetalink (0.1.3-2)
+[2018-12-11 12:05] [ALPM] installed libnghttp2 (1.34.0-1)
+[2018-12-11 12:05] [ALPM] installed libpsl (0.20.2-1)
+[2018-12-11 12:05] [ALPM] installed libssh2 (1.8.0-1)
+[2018-12-11 12:05] [ALPM] installed libcurl (7.62.0-1)
+[2018-12-11 12:05] [ALPM] installed curl (7.62.0-1)
+[2018-12-11 12:05] [ALPM] installed filesystem (2018.08-1)
+[2018-12-11 12:05] [ALPM] installed grep (3.0-2)
+[2018-12-11 12:05] [ALPM] installed dash (0.5.10.2-1)
+[2018-12-11 12:05] [ALPM] installed dtc (1.4.7-1)
+[2018-12-11 12:05] [ALPM] installed file (5.35-1)
+[2018-12-11 12:05] [ALPM] installed m4 (1.4.18-2)
+[2018-12-11 12:05] [ALPM] installed flex (2.6.4-1)
+[2018-12-11 12:05] [ALPM] installed mpfr (4.0.1-1)
+[2018-12-11 12:05] [ALPM] installed gawk (4.2.1-2)
+[2018-12-11 12:05] [ALPM] installed libargp (20110921-2)
+[2018-12-11 12:05] [ALPM] installed getent (2.18.90-2)
+[2018-12-11 12:05] [ALPM] installed tftp-hpa (5.2-2)
+[2018-12-11 12:05] [ALPM] installed inetutils (1.9.4-1)
+[2018-12-11 12:05] [ALPM] installed lndir (1.0.3-1)
+[2018-12-11 12:05] [ALPM] installed mintty (1~2.9.5-1)
+[2018-12-11 12:05] [ALPM] installed msys2-keyring (r9.397a52e-1)
+[2018-12-11 12:05] [ALPM] installed msys2-launcher-git (0.3.32.56c2ba7-2)
+[2018-12-11 12:05] [ALPM] installed libassuan (2.5.1-1)
+[2018-12-11 12:05] [ALPM] installed libgnutls (3.6.5-1)
+[2018-12-11 12:05] [ALPM] installed libksba (1.3.5-1)
+[2018-12-11 12:05] [ALPM] installed libnpth (1.6-1)
+[2018-12-11 12:05] [ALPM] installed nettle (3.4.1-1)
+[2018-12-11 12:05] [ALPM] installed pinentry (1.1.0-2)
+[2018-12-11 12:05] [ALPM] installed gnupg (2.2.11-1)
+[2018-12-11 12:05] [ALPM] installed pacman-mirrors (20180604-2)
+[2018-12-11 12:05] [ALPM] installed which (2.21-2)
+[2018-12-11 12:05] [ALPM] installed xz (5.2.4-1)
+[2018-12-11 12:06] [ALPM] installed pacman (5.1.1-3)
+[2018-12-11 12:06] [ALPM] installed libarchive (3.3.3-3)
+[2018-12-11 12:06] [ALPM] installed libpcre16 (8.42-1)
+[2018-12-11 12:06] [ALPM] installed libpcre32 (8.42-1)
+[2018-12-11 12:06] [ALPM] installed libpcrecpp (8.42-1)
+[2018-12-11 12:06] [ALPM] installed libpcreposix (8.42-1)
+[2018-12-11 12:06] [ALPM] installed pcre (8.42-1)
+[2018-12-11 12:06] [ALPM] installed pkgfile (19-1)
+[2018-12-11 12:06] [ALPM-SCRIPTLET] ==> Run 'pkgfile --update' to initialize the database
+[2018-12-11 12:06] [ALPM] installed libgpgme (1.12.0-1)
+[2018-12-11 12:06] [ALPM] installed libutil-linux (2.32.1-1)
+[2018-12-11 12:06] [ALPM] installed wget (1.19.5-1)
+[2018-12-11 12:06] [ALPM] installed pactoys-git (r2.07ca37f-1)
+[2018-12-11 12:06] [ALPM] installed pax-git (20161104.2-1)
+[2018-12-11 12:06] [ALPM] installed rebase (4.4.4-1)
+[2018-12-11 12:06] [ALPM] installed time (1.9-1)
+[2018-12-11 12:06] [ALPM] installed ttyrec (1.0.8-2)
+[2018-12-11 12:06] [ALPM] installed tzcode (2018.c-1)
+[2018-12-11 12:06] [ALPM] installed util-linux (2.32.1-1)
+[2018-12-11 12:06] [ALPM] transaction completed
+[2020-11-23 19:35] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\diffutils-3.6-1-x86_64.pkg.tar.xz'
+[2020-11-23 19:35] [ALPM] transaction started
+[2020-11-23 19:35] [ALPM] installed diffutils (3.6-1)
+[2020-11-23 19:35] [ALPM] transaction completed
+[2020-11-23 19:35] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\autoconf-2.69-3-any.pkg.tar.xz'
+[2020-11-23 19:35] [ALPM] transaction started
+[2020-11-23 19:35] [ALPM] installed autoconf (2.69-3)
+[2020-11-23 19:35] [ALPM] transaction completed
+[2020-11-23 19:35] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\autoconf2.13-2.13-2-any.pkg.tar.xz'
+[2020-11-23 19:35] [ALPM] transaction started
+[2020-11-23 19:35] [ALPM] installed autoconf2.13 (2.13-2)
+[2020-11-23 19:35] [ALPM] transaction completed
+[2020-11-23 19:35] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\libgc-7.6.0-1-x86_64.pkg.tar.xz'
+[2020-11-23 19:35] [ALPM] transaction started
+[2020-11-23 19:35] [ALPM] installed libgc (7.6.0-1)
+[2020-11-23 19:35] [ALPM] transaction completed
+[2020-11-23 19:35] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\libgcrypt-1.8.4-1-x86_64.pkg.tar.xz'
+[2020-11-23 19:35] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\libltdl-2.4.6-2-x86_64.pkg.tar.xz'
+[2020-11-23 19:35] [ALPM] transaction started
+[2020-11-23 19:35] [ALPM] installed libltdl (2.4.6-2)
+[2020-11-23 19:35] [ALPM] transaction completed
+[2020-11-23 19:35] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\libguile-2.2.3-1-x86_64.pkg.tar.xz'
+[2020-11-23 19:35] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed libguile (2.2.3-1)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\autogen-5.18.12-2-x86_64.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed autogen (5.18.12-2)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\db-5.3.28-2-x86_64.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed db (5.3.28-2)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\libgdbm-1.11-3-x86_64.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed libgdbm (1.11-3)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\gdbm-1.11-3-x86_64.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed gdbm (1.11-3)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\perl-5.24.4-1-x86_64.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed perl (5.24.4-1)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.6-1.6.3-2-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.6 (1.6.3-2)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.7-1.7.9-2-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.7 (1.7.9-2)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.8-1.8.5-3-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.8 (1.8.5-3)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.9-1.9.6-2-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.9 (1.9.6-2)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.10-1.10.3-3-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.10 (1.10.3-3)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.11-1.11.6-3-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.11 (1.11.6-3)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.12-1.12.6-3-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.12 (1.12.6-3)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.13-1.13.4-4-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.13 (1.13.4-4)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.14-1.14.1-3-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.14 (1.14.1-3)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.15-1.15.1-1-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.15 (1.15.1-1)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake1.16-1.16.1-1-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake1.16 (1.16.1-1)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\automake-wrapper-10-1-any.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed automake-wrapper (10-1)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\tar-1.30-1-x86_64.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed tar (1.30-1)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\libtool-2.4.6-2-x86_64.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed libtool (2.4.6-2)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\make-4.2.1-1-x86_64.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed make (4.2.1-1)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:36] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\patch-2.7.6-1-x86_64.pkg.tar.xz'
+[2020-11-23 19:36] [ALPM] transaction started
+[2020-11-23 19:36] [ALPM] installed patch (2.7.6-1)
+[2020-11-23 19:36] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\pkg-config-0.29.2-1-x86_64.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed pkg-config (0.29.2-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-libiconv-1.15-2-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-libiconv (1.15-2)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-gmp-6.1.2-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-gmp (6.1.2-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-mpfr-4.0.1-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-mpfr (4.0.1-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-mpc-1.1.0-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-mpc (1.1.0-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-libwinpthread-git-6.0.0.5134.2416de71-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-libwinpthread-git (6.0.0.5134.2416de71-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-gcc-libs-7.3.0-2-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-gcc-libs (7.3.0-2)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-dlfcn-1.2.0-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-dlfcn (1.2.0-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-bzip2-1.0.6-6-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-bzip2 (1.0.6-6)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-zlib-1.2.11-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-zlib (1.2.11-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-binutils-2.30-3-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-binutils (2.30-3)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-headers-git-6.0.0.5136.897300fe-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-headers-git (6.0.0.5136.897300fe-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-crt-git-6.0.0.5136.897300fe-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-crt-git (6.0.0.5136.897300fe-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-isl-0.19-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-isl (0.19-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-windows-default-manifest-6.4-3-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-windows-default-manifest (6.4-3)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-winpthreads-git-6.0.0.5134.2416de71-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-winpthreads-git (6.0.0.5134.2416de71-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-gcc-7.3.0-2-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-gcc (7.3.0-2)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:37] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-libmangle-git-6.0.0.5079.3b7a42fd-1-any.pkg.tar.xz'
+[2020-11-23 19:37] [ALPM] transaction started
+[2020-11-23 19:37] [ALPM] installed mingw-w64-x86_64-libmangle-git (6.0.0.5079.3b7a42fd-1)
+[2020-11-23 19:37] [ALPM] transaction completed
+[2020-11-23 19:38] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-expat-2.2.5-1-any.pkg.tar.xz'
+[2020-11-23 19:38] [ALPM] transaction started
+[2020-11-23 19:38] [ALPM] installed mingw-w64-x86_64-expat (2.2.5-1)
+[2020-11-23 19:38] [ALPM] transaction completed
+[2020-11-23 19:38] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-gettext-0.19.8.1-3-any.pkg.tar.xz'
+[2020-11-23 19:38] [ALPM] transaction started
+[2020-11-23 19:38] [ALPM] installed mingw-w64-x86_64-gettext (0.19.8.1-3)
+[2020-11-23 19:38] [ALPM] transaction completed
+[2020-11-23 19:38] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-make-4.2.1-2-any.pkg.tar.xz'
+[2020-11-23 19:38] [ALPM] transaction started
+[2020-11-23 19:38] [ALPM] installed mingw-w64-x86_64-make (4.2.1-2)
+[2020-11-23 19:38] [ALPM] transaction completed
+[2020-11-23 19:38] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-pkg-config-0.29.2-1-any.pkg.tar.xz'
+[2020-11-23 19:38] [ALPM] transaction started
+[2020-11-23 19:38] [ALPM] installed mingw-w64-x86_64-pkg-config (0.29.2-1)
+[2020-11-23 19:38] [ALPM] transaction completed
+[2020-11-23 19:38] [PACMAN] Running 'pacman -U --noconfirm --needed C:\xampp\htdocs\MIS\Redmine\msys64\var\cache\pacman\pkg\mingw-w64-x86_64-tools-git-6.0.0.5111.3bc5ab74-1-any.pkg.tar.xz'
+[2020-11-23 19:38] [ALPM] transaction started
+[2020-11-23 19:38] [ALPM] installed mingw-w64-x86_64-tools-git (6.0.0.5111.3bc5ab74-1)
+[2020-11-23 19:38] [ALPM] transaction completed
