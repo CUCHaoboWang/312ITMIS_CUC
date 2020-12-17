@@ -89,3 +89,18 @@
 [Thu Dec 10 12:36:25.432714 2020] [core:notice] [pid 2228:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/SuiteCRM/apache2 -f C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\conf\\httpd.conf'
 [Thu Dec 10 12:36:25.436715 2020] [mpm_winnt:notice] [pid 2228:tid 556] AH00418: Parent: Created child process 3336
 [Thu Dec 10 12:36:27.577656 2020] [ssl:warn] [pid 3336:tid 496] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:27.667655 2020] [ssl:warn] [pid 3336:tid 496] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:27.711655 2020] [mpm_winnt:notice] [pid 3336:tid 496] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 13 20:02:56.047376 2020] [php7:warn] [pid 3336:tid 1164] [client 172.31.77.202:56326] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\cache\\smarty\\templates_c\\%%7E^7E2^7E2EB4A5%%ListViewGeneric.tpl.php on line 45, referer: http://ec2-18-207-137-80.compute-1.amazonaws.com:82/suitecrm/index.php?action=ajaxui
+[Sun Dec 13 20:14:56.506845 2020] [php7:warn] [pid 3336:tid 1144] [client 172.31.77.202:56491] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apps\\suitecrm\\htdocs\\cache\\smarty\\templates_c\\%%7E^7E2^7E2EB4A5%%ListViewGeneric.tpl.php on line 45, referer: http://ec2-18-207-137-80.compute-1.amazonaws.com:82/suitecrm/index.php?module=Home&action=index
+[Tue Dec 15 11:52:34.300392 2020] [ssl:warn] [pid 1704:tid 556] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:34.422391 2020] [core:warn] [pid 1704:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/SuiteCRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 15 11:52:34.425347 2020] [ssl:warn] [pid 1704:tid 556] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:35.174372 2020] [mpm_winnt:notice] [pid 1704:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Tue Dec 15 11:52:35.174372 2020] [mpm_winnt:notice] [pid 1704:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Tue Dec 15 11:52:35.174372 2020] [core:notice] [pid 1704:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/SuiteCRM/apache2 -f C:\\xampp\\htdocs\\MIS\\SuiteCRM\\apache2\\conf\\httpd.conf'
+[Tue Dec 15 11:52:35.175372 2020] [mpm_winnt:notice] [pid 1704:tid 556] AH00418: Parent: Created child process 3316
+[Tue Dec 15 11:52:37.691331 2020] [ssl:warn] [pid 3316:tid 484] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:37.723331 2020] [ssl:warn] [pid 3316:tid 484] AH01909: localhost:446:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:37.744312 2020] [mpm_winnt:notice] [pid 3316:tid 484] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 15 12:03:22.759047 2020] [mpm_winnt:crit] [pid 3316:tid 484] AH02538: Child: Parent process exited abruptly. Child process is ending

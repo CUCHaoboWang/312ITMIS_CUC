@@ -425,29 +425,29 @@ button {
 /** end Hosting section **/
 
 
-/** Services section **/
+/** services section **/
 
-.Services {
+.services {
      margin-top: 90px;
      padding: 60px 0;
      background: #0c0f38;
      font-family: Poppins;
 }
 
-.Services .titlepage {
+.services .titlepage {
      text-align: center;
 }
 
-.Services .titlepage h2 {
+.services .titlepage h2 {
      color: #fff;
      padding-bottom: 20px;
 }
 
-.Services .titlepage p {
+.services .titlepage p {
      color: #fff;
 }
 
-.Services .Services-box i {
+.services .services-box i {
      background: #fff;
      width: 100px;
      height: 100px;
@@ -456,11 +456,11 @@ button {
      padding-top: 19px;
 }
 
-.Services .Services-box i:hover {
+.services .services-box i:hover {
      background: #ddd;
 }
 
-.Services .Services-box h3 {
+.services .services-box h3 {
      padding: 20px 0px 20px 0px;
      font-size: 20px;
      line-height: 25px;
@@ -469,7 +469,7 @@ button {
      font-weight: 500;
 }
 
-.Services .Services-box {
+.services .services-box {
      text-align: center;
      background-color: transparent;
      border-radius: 20px;
@@ -479,13 +479,13 @@ button {
      margin-bottom: 30px;
 }
 
-.Services .Services-box:hover {
+.services .services-box:hover {
      background: #8308eb;
      transition: ease-in all 0.5s;
      cursor: pointer;
 }
 
-.Services .Services-box p {
+.services .services-box p {
      font-size: 16px;
      line-height: 24px;
      color: #fff;
@@ -511,7 +511,7 @@ button {
 }
 
 
-/** end Services section **/
+/** end services section **/
 
 
 /** why section **/

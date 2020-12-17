@@ -52,3 +52,6 @@
 [Thu Dec 10 12:43:58.707215 2020] [ssl:warn] [pid 7620:tid 552] AH01909: localhost:448:0 server certificate does NOT include an ID which matches the server name
 [Thu Dec 10 12:43:58.754075 2020] [core:warn] [pid 7620:tid 552] AH00098: pid file C:/xampp/htdocs/MIS/CiviCRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
 [Thu Dec 10 12:43:58.754075 2020] [ssl:warn] [pid 7620:tid 552] AH01909: localhost:448:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:34.568391 2020] [ssl:warn] [pid 1540:tid 556] AH01909: localhost:448:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:34.665396 2020] [core:warn] [pid 1540:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/CiviCRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 15 11:52:34.667394 2020] [ssl:warn] [pid 1540:tid 556] AH01909: localhost:448:0 server certificate does NOT include an ID which matches the server name

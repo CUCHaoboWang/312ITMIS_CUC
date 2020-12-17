@@ -121,3 +121,15 @@
 [Thu Dec 10 12:36:27.175676 2020] [core:notice] [pid 2088:tid 588] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
 [Thu Dec 10 12:36:27.177677 2020] [mpm_winnt:notice] [pid 2088:tid 588] AH00418: Parent: Created child process 4016
 [Thu Dec 10 12:36:28.510657 2020] [ssl:warn] [pid 4016:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:28.568635 2020] [ssl:warn] [pid 4016:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:28.609637 2020] [mpm_winnt:notice] [pid 4016:tid 484] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 15 11:52:34.462392 2020] [ssl:warn] [pid 2068:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:34.535391 2020] [core:warn] [pid 2068:tid 556] AH00098: pid file C:/xampp/htdocs/MIS/Redmine/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 15 11:52:34.538392 2020] [ssl:warn] [pid 2068:tid 556] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:35.170372 2020] [mpm_winnt:notice] [pid 2068:tid 556] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.23 configured -- resuming normal operations
+[Tue Dec 15 11:52:35.170372 2020] [mpm_winnt:notice] [pid 2068:tid 556] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Tue Dec 15 11:52:35.170372 2020] [core:notice] [pid 2068:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/Redmine/apache2 -f C:\\xampp\\htdocs\\MIS\\Redmine\\apache2\\conf\\httpd.conf'
+[Tue Dec 15 11:52:35.172375 2020] [mpm_winnt:notice] [pid 2068:tid 556] AH00418: Parent: Created child process 3308
+[Tue Dec 15 11:52:36.978333 2020] [ssl:warn] [pid 3308:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:37.170333 2020] [ssl:warn] [pid 3308:tid 484] AH01909: localhost:444:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:37.403333 2020] [mpm_winnt:notice] [pid 3308:tid 484] AH00354: Child: Starting 64 worker threads.

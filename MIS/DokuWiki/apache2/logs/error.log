@@ -61,3 +61,17 @@
 [Thu Dec 10 12:36:25.322717 2020] [core:notice] [pid 2016:tid 556] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/DokuWiki/apache2 -f C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\conf\\httpd.conf'
 [Thu Dec 10 12:36:25.325715 2020] [mpm_winnt:notice] [pid 2016:tid 556] AH00418: Parent: Created child process 3316
 [Thu Dec 10 12:36:26.561675 2020] [ssl:warn] [pid 3316:tid 484] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:26.662674 2020] [ssl:warn] [pid 3316:tid 484] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Thu Dec 10 12:36:26.704677 2020] [mpm_winnt:notice] [pid 3316:tid 484] AH00354: Child: Starting 64 worker threads.
+[Sun Dec 13 20:50:15.755186 2020] [php7:warn] [pid 3316:tid 1160] [client 172.31.77.202:56853] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in C:\\xampp\\htdocs\\MIS\\DokuWiki\\apps\\dokuwiki\\htdocs\\lib\\plugins\\popularity\\helper.php on line 207, referer: http://ec2-18-207-137-80.compute-1.amazonaws.com:83/dokuwiki/doku.php?id=start&do=admin
+[Tue Dec 15 11:52:34.373391 2020] [ssl:warn] [pid 1128:tid 572] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:34.671390 2020] [core:warn] [pid 1128:tid 572] AH00098: pid file C:/xampp/htdocs/MIS/DokuWiki/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 15 11:52:34.673392 2020] [ssl:warn] [pid 1128:tid 572] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:35.459371 2020] [mpm_winnt:notice] [pid 1128:tid 572] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1g PHP/7.3.23 configured -- resuming normal operations
+[Tue Dec 15 11:52:35.459371 2020] [mpm_winnt:notice] [pid 1128:tid 572] AH00456: Apache Lounge VC15 Server built: Aug  4 2020 11:50:23
+[Tue Dec 15 11:52:35.459371 2020] [core:notice] [pid 1128:tid 572] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/DokuWiki/apache2 -f C:\\xampp\\htdocs\\MIS\\DokuWiki\\apache2\\conf\\httpd.conf'
+[Tue Dec 15 11:52:35.461373 2020] [mpm_winnt:notice] [pid 1128:tid 572] AH00418: Parent: Created child process 3352
+[Tue Dec 15 11:52:37.094332 2020] [ssl:warn] [pid 3352:tid 484] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:37.380334 2020] [ssl:warn] [pid 3352:tid 484] AH01909: localhost:447:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:37.400334 2020] [mpm_winnt:notice] [pid 3352:tid 484] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 15 12:03:22.759047 2020] [mpm_winnt:crit] [pid 3352:tid 484] AH02538: Child: Parent process exited abruptly. Child process is ending

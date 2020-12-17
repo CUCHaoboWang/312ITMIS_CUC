@@ -76,3 +76,14 @@
 [Thu Dec 10 12:36:26.418693 2020] [ssl:warn] [pid 3344:tid 484] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
 [Thu Dec 10 12:36:26.609674 2020] [ssl:warn] [pid 3344:tid 484] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
 [Thu Dec 10 12:36:26.636675 2020] [mpm_winnt:notice] [pid 3344:tid 484] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 15 11:52:34.460392 2020] [ssl:warn] [pid 1852:tid 560] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:34.657391 2020] [core:warn] [pid 1852:tid 560] AH00098: pid file C:/xampp/htdocs/MIS/OrangeHRM/apache2/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Tue Dec 15 11:52:34.660391 2020] [ssl:warn] [pid 1852:tid 560] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:35.475370 2020] [mpm_winnt:notice] [pid 1852:tid 560] AH00455: Apache/2.4.46 (Win64) OpenSSL/1.1.1h PHP/7.3.24 configured -- resuming normal operations
+[Tue Dec 15 11:52:35.475370 2020] [mpm_winnt:notice] [pid 1852:tid 560] AH00456: Apache Lounge VC15 Server built: Oct  3 2020 12:58:33
+[Tue Dec 15 11:52:35.475370 2020] [core:notice] [pid 1852:tid 560] AH00094: Command line: 'C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\bin\\httpd.exe -d C:/xampp/htdocs/MIS/OrangeHRM/apache2 -f C:\\xampp\\htdocs\\MIS\\ORANGE~1\\apache2\\conf\\httpd.conf'
+[Tue Dec 15 11:52:35.864352 2020] [mpm_winnt:notice] [pid 1852:tid 560] AH00418: Parent: Created child process 3360
+[Tue Dec 15 11:52:37.541333 2020] [ssl:warn] [pid 3360:tid 500] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:37.746313 2020] [ssl:warn] [pid 3360:tid 500] AH01909: localhost:449:0 server certificate does NOT include an ID which matches the server name
+[Tue Dec 15 11:52:38.058315 2020] [mpm_winnt:notice] [pid 3360:tid 500] AH00354: Child: Starting 64 worker threads.
+[Tue Dec 15 12:03:22.774671 2020] [mpm_winnt:crit] [pid 3360:tid 500] AH02538: Child: Parent process exited abruptly. Child process is ending
